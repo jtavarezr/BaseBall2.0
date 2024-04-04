@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { Outlet, Link, useLoaderData } from "react-router-dom";
 import {
   getMLBTeamsLocal,
@@ -6,29 +6,53 @@ import {
   getCurrentDate,
   getMLBTeams,
   getMLBScoresOnly,
+  formatDate,
 } from "../utils/functions";
 import Card from "../Card";
 
+/**
+ * Loader function to fetch MLB teams and scores for the current date.
+ * @returns {Promise<{ teams: any, header: any }>} An object containing MLB teams and header data.
+ */
 export async function loader() {
-  const response = await getMLBTeams();
-  const response2 = await getMLBScoresOnly(getCurrentDate().replace(/-/g, ''));
-  //const response2 = await getMLBScoresOnly(getCurrentDate());
-  console.log("Response:", response);
-  return { teams: response, header: response2};
+  try {
+    const teamsResponse = await getMLBTeams();
+    const scoresResponse = await getMLBScoresOnly(getCurrentDate().replace(/-/g, ''));
+
+    console.log("Response:", teamsResponse);
+    return { teams: teamsResponse, header: scoresResponse };
+  } catch (error) {
+    console.error("Error loading data:", error);
+    throw error;
+  }
 }
 
+/**
+ * Root component for the application.
+ * Displays a sidebar with navigation links to MLB teams and a search form.
+ * @returns {JSX.Element} The root component.
+ */
 const Root = () => {
-  const { teams, header} = useLoaderData();
+  const { teams: initialTeams, header: initialHeader } = useLoaderData();
   const currentDate = getCurrentDate();
-  const year = currentDate.split("-")[0];
-  const pastYears = Array.from({ length: 11 }, (_, index) => year - index);
-  const [currentYear, setCurrentYear] = useState(year);
+  const [selectedDate, setSelectedDate] = useState(currentDate);
+  const [teams, setTeams] = useState(initialTeams);
+  const [header, setHeader] = useState(initialHeader);
 
-  const handleYearChange = (e) => {
-    const selectedYear = parseInt(e.target.value);
-    setCurrentYear(selectedYear);
-    console.log("Current Year", selectedYear);
+  useEffect(() => {
+    const formattedDate = formatDate(selectedDate); // Format selected date as yyyymmdd
+    // Fetch MLB scores for the selected date
+    getMLBScoresOnly(formattedDate.replace(/-/g, ""))
+      .then((scoresResponse) => setHeader(scoresResponse))
+      .catch((error) => console.error("Error fetching MLB scores:", error));
+  }, [selectedDate]);
+
+  const handleDateChange = (e) => {
+    setSelectedDate(formatDate(e.target.value));
   };
+
+  const year = getCurrentDate().split("-")[0];
+  const pastYears = Array.from({ length: 11 }, (_, index) => year - index);
 
   return (
     <>
@@ -40,8 +64,8 @@ const Root = () => {
             <select
               id="yearSelect"
               className="form-select"
-              value={currentYear}
-              onChange={handleYearChange}
+              value={year}
+              onChange={() => {}} // Placeholder function for year change
             >
               {pastYears.map((year) => (
                 <option key={year} value={year}>
@@ -51,6 +75,13 @@ const Root = () => {
             </select>
             <br />
             <br />
+            <label>Calendar :</label>
+            <input
+              type="date"
+              value={selectedDate}
+              onChange={handleDateChange}
+            />
+
             <input
               id="q"
               aria-label="Search contacts"
@@ -68,7 +99,7 @@ const Root = () => {
               teams.body &&
               teams.body.map((team) => (
                 <li key={team.teamID}>
-                  <Link to={`team/${team.teamAbv}/${currentYear}`}>
+                  <Link to={`team/${team.teamAbv}/${year}`}>
                     {team.teamName ? (
                       <>
                         {team.teamName} {team.teamCity}{" "}
@@ -87,7 +118,11 @@ const Root = () => {
           </ul>
         </nav>
         <nav className="nav-card">
-          <Card userData={header} teamsData={teams} onCardClick={handleCardClick} />
+          <Card
+            userData={header}
+            teamsData={teams}
+            onCardClick={() => {}} // Placeholder function for card click
+          />
         </nav>
         <nav className="nav-home">
           <ul>
@@ -107,11 +142,3 @@ const Root = () => {
 };
 
 export default Root;
-
-/**
- * Handle click on a game card.
- * @param {number} gamePk - Primary key of the selected game.
- */
-const handleCardClick = (gamePk) => {
-  setSelectedGamePk(gamePk); // Store selected game primary key in state
-};

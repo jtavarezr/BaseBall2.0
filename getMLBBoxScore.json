@@ -1,0 +1,1923 @@
+{
+  "statusCode": 200,
+  "body": {
+    "GameLength": "3:42",
+    "Umpires": "HP: Andy Fletcher. 1B: Jansen Visconti. 2B: Jeremie Rehak. 3B: Lance Barksdale.",
+    "gameStatus": "Completed",
+    "Attendance": "15,928",
+    "teamStats": {
+      "away": {
+        "Pitching": {
+          "Groundouts": "8",
+          "Balk": "0",
+          "Wild Pitch": "1",
+          "Flyouts": "6",
+          "Inherited Runners": "4",
+          "Batters Faced": "50",
+          "Pitches": "191",
+          "Strikes": "119",
+          "Inherited Runners Scored": "4"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "1",
+          "PO": "0"
+        },
+        "Fielding": {
+          "E": "0",
+          "Pickoffs": "0",
+          "Passed Ball": "0"
+        },
+        "Hitting": {
+          "BB": "6",
+          "2B": "3",
+          "R": "15",
+          "SF": "2",
+          "SAC": "0",
+          "HBP": "2",
+          "H": "18",
+          "RBI": "14",
+          "IBB": "0",
+          "TB": "26",
+          "3B": "1",
+          "GIDP": "1"
+        }
+      },
+      "home": {
+        "Pitching": {
+          "Groundouts": "8",
+          "Balk": "0",
+          "Wild Pitch": "2",
+          "Flyouts": "6",
+          "Inherited Runners": "1",
+          "Batters Faced": "53",
+          "Pitches": "194",
+          "Strikes": "119",
+          "Inherited Runners Scored": "0"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "Fielding": {
+          "E": "2",
+          "Pickoffs": "0",
+          "Passed Ball": "0"
+        },
+        "Hitting": {
+          "BB": "6",
+          "2B": "3",
+          "R": "11",
+          "SF": "1",
+          "SAC": "0",
+          "HBP": "1",
+          "H": "16",
+          "RBI": "11",
+          "IBB": "0",
+          "TB": "22",
+          "3B": "0",
+          "GIDP": "0"
+        }
+      }
+    },
+    "gameDate": "20240321",
+    "Venue": "Gocheok Sky Dome",
+    "currentCount": "",
+    "homeResult": "L",
+    "away": "SD",
+    "lineScore": {
+      "away": {
+        "H": "18",
+        "R": "15",
+        "team": "SD",
+        "scoresByInning": {
+          "1": "5",
+          "2": "0",
+          "3": "4",
+          "4": "0",
+          "5": "1",
+          "6": "1",
+          "7": "1",
+          "8": "0",
+          "9": "3"
+        },
+        "E": "0"
+      },
+      "home": {
+        "H": "16",
+        "R": "11",
+        "team": "LAD",
+        "scoresByInning": {
+          "1": "1",
+          "2": "1",
+          "3": "4",
+          "4": "0",
+          "5": "2",
+          "6": "0",
+          "7": "1",
+          "8": "2",
+          "9": "0"
+        },
+        "E": "2"
+      }
+    },
+    "currentOuts": "",
+    "FirstPitch": "7:07 PM",
+    "Wind": "0 mph, None",
+    "home": "LAD",
+    "playerStats": {
+      "518692": {
+        "gameID": "20240321_SD@LAD",
+        "allPositionsPlayed": "1B",
+        "Pitching": {
+          "Balk": "0",
+          "Groundouts": "0",
+          "Wild Pitch": "0",
+          "Flyouts": "0",
+          "Inherited Runners": "0",
+          "Batters Faced": "0",
+          "Pitches": "0",
+          "Strikes": "0",
+          "Inherited Runners Scored": "0"
+        },
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "BB": "2",
+          "AB": "4",
+          "battingOrder": "3",
+          "H": "1",
+          "IBB": "0",
+          "substitutionOrder": "0",
+          "HR": "0",
+          "TB": "1",
+          "3B": "0",
+          "GIDP": "0",
+          "2B": "0",
+          "R": "0",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "RBI": "0",
+          "SO": "2",
+          "AVG": ".250"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "True",
+        "team": "LAD",
+        "startingPosition": "1B",
+        "playerID": "518692"
+      },
+      "518792": {
+        "gameID": "20240321_SD@LAD",
+        "allPositionsPlayed": "RF",
+        "Pitching": {
+          "Balk": "0",
+          "Groundouts": "0",
+          "Wild Pitch": "0",
+          "Flyouts": "0",
+          "Inherited Runners": "0",
+          "Batters Faced": "0",
+          "Pitches": "0",
+          "Strikes": "0",
+          "Inherited Runners Scored": "0"
+        },
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "BB": "0",
+          "AB": "5",
+          "battingOrder": "8",
+          "H": "2",
+          "IBB": "0",
+          "substitutionOrder": "0",
+          "HR": "0",
+          "TB": "2",
+          "3B": "0",
+          "GIDP": "0",
+          "2B": "0",
+          "R": "3",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "RBI": "1",
+          "SO": "0",
+          "AVG": ".400"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "True",
+        "team": "LAD",
+        "startingPosition": "RF",
+        "playerID": "518792"
+      },
+      "571970": {
+        "gameID": "20240321_SD@LAD",
+        "allPositionsPlayed": "3B",
+        "Pitching": {
+          "Balk": "0",
+          "Groundouts": "0",
+          "Wild Pitch": "0",
+          "Flyouts": "0",
+          "Inherited Runners": "0",
+          "Batters Faced": "0",
+          "Pitches": "0",
+          "Strikes": "0",
+          "Inherited Runners Scored": "0"
+        },
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "1",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "BB": "0",
+          "AB": "6",
+          "battingOrder": "5",
+          "H": "2",
+          "IBB": "0",
+          "substitutionOrder": "0",
+          "HR": "0",
+          "TB": "3",
+          "3B": "0",
+          "GIDP": "0",
+          "2B": "1",
+          "R": "1",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "RBI": "0",
+          "SO": "3",
+          "AVG": ".333"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "True",
+        "team": "LAD",
+        "startingPosition": "3B",
+        "playerID": "571970"
+      },
+      "592518": {
+        "gameID": "20240321_SD@LAD",
+        "allPositionsPlayed": "DH",
+        "Pitching": {
+          "Balk": "0",
+          "Groundouts": "0",
+          "Wild Pitch": "0",
+          "Flyouts": "0",
+          "Inherited Runners": "0",
+          "Batters Faced": "0",
+          "Pitches": "0",
+          "Strikes": "0",
+          "Inherited Runners Scored": "0"
+        },
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "BB": "2",
+          "AB": "4",
+          "battingOrder": "4",
+          "H": "1",
+          "IBB": "0",
+          "substitutionOrder": "0",
+          "HR": "1",
+          "TB": "4",
+          "GIDP": "1",
+          "3B": "0",
+          "2B": "0",
+          "R": "2",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "RBI": "3",
+          "SO": "1",
+          "AVG": ".250"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "True",
+        "team": "SD",
+        "startingPosition": "DH",
+        "playerID": "592518"
+      },
+      "593428": {
+        "gameID": "20240321_SD@LAD",
+        "allPositionsPlayed": "2B",
+        "Pitching": {
+          "Balk": "0",
+          "Groundouts": "0",
+          "Wild Pitch": "0",
+          "Flyouts": "0",
+          "Inherited Runners": "0",
+          "Batters Faced": "0",
+          "Pitches": "0",
+          "Strikes": "0",
+          "Inherited Runners Scored": "0"
+        },
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "BB": "1",
+          "AB": "5",
+          "battingOrder": "1",
+          "H": "2",
+          "IBB": "0",
+          "substitutionOrder": "0",
+          "HR": "0",
+          "TB": "2",
+          "3B": "0",
+          "GIDP": "0",
+          "2B": "0",
+          "R": "3",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "RBI": "2",
+          "SO": "2",
+          "AVG": ".400"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "True",
+        "team": "SD",
+        "startingPosition": "2B",
+        "playerID": "593428"
+      },
+      "595777": {
+        "gameID": "20240321_SD@LAD",
+        "allPositionsPlayed": "LF",
+        "Pitching": {
+          "Balk": "0",
+          "Groundouts": "0",
+          "Wild Pitch": "0",
+          "Flyouts": "0",
+          "Inherited Runners": "0",
+          "Batters Faced": "0",
+          "Pitches": "0",
+          "Strikes": "0",
+          "Inherited Runners Scored": "0"
+        },
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "BB": "1",
+          "AB": "3",
+          "battingOrder": "6",
+          "H": "0",
+          "IBB": "0",
+          "substitutionOrder": "0",
+          "HR": "0",
+          "TB": "0",
+          "3B": "0",
+          "GIDP": "0",
+          "2B": "0",
+          "R": "0",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "RBI": "0",
+          "SO": "1",
+          "AVG": ".000"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "True",
+        "team": "SD",
+        "startingPosition": "LF",
+        "playerID": "595777"
+      },
+      "605141": {
+        "gameID": "20240321_SD@LAD",
+        "allPositionsPlayed": "SS",
+        "Pitching": {
+          "Balk": "0",
+          "Groundouts": "0",
+          "Wild Pitch": "0",
+          "Flyouts": "0",
+          "Inherited Runners": "0",
+          "Batters Faced": "0",
+          "Pitches": "0",
+          "Strikes": "0",
+          "Inherited Runners Scored": "0"
+        },
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "BB": "1",
+          "AB": "5",
+          "battingOrder": "1",
+          "H": "4",
+          "IBB": "0",
+          "substitutionOrder": "0",
+          "HR": "1",
+          "TB": "8",
+          "3B": "0",
+          "GIDP": "0",
+          "2B": "1",
+          "R": "2",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "RBI": "6",
+          "SO": "0",
+          "AVG": ".800"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "True",
+        "team": "LAD",
+        "startingPosition": "SS",
+        "playerID": "605141"
+      },
+      "605397": {
+        "gameID": "20240321_SD@LAD",
+        "Pitching": {
+          "BB": "2",
+          "Balk": "0",
+          "Wild Pitch": "0",
+          "decision": "",
+          "Flyouts": "3",
+          "Inherited Runners": "0",
+          "H": "7",
+          "HR": "0",
+          "ER": "5",
+          "Strikes": "38",
+          "Inherited Runners Scored": "0",
+          "Groundouts": "2",
+          "R": "5",
+          "pitchingOrder": "1",
+          "ERA": "16.88",
+          "InningsPitched": "2.2",
+          "Batters Faced": "17",
+          "SO": "2",
+          "Pitches": "60"
+        },
+        "allPositionsPlayed": "P",
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "2B": "0",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "IBB": "0",
+          "HR": "0",
+          "TB": "0",
+          "3B": "0",
+          "GIDP": "0"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "True",
+        "team": "SD",
+        "playerID": "605397"
+      },
+      "606192": {
+        "gameID": "20240321_SD@LAD",
+        "allPositionsPlayed": "LF",
+        "Pitching": {
+          "Balk": "0",
+          "Groundouts": "0",
+          "Wild Pitch": "0",
+          "Flyouts": "0",
+          "Inherited Runners": "0",
+          "Batters Faced": "0",
+          "Pitches": "0",
+          "Strikes": "0",
+          "Inherited Runners Scored": "0"
+        },
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "BB": "2",
+          "AB": "3",
+          "battingOrder": "6",
+          "H": "0",
+          "IBB": "0",
+          "substitutionOrder": "0",
+          "HR": "0",
+          "TB": "0",
+          "3B": "0",
+          "GIDP": "0",
+          "2B": "0",
+          "R": "0",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "RBI": "0",
+          "SO": "2",
+          "AVG": ".000"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "True",
+        "team": "LAD",
+        "startingPosition": "LF",
+        "playerID": "606192"
+      },
+      "630105": {
+        "gameID": "20240321_SD@LAD",
+        "allPositionsPlayed": "1B",
+        "Pitching": {
+          "Balk": "0",
+          "Groundouts": "0",
+          "Wild Pitch": "0",
+          "Flyouts": "0",
+          "Inherited Runners": "0",
+          "Batters Faced": "0",
+          "Pitches": "0",
+          "Strikes": "0",
+          "Inherited Runners Scored": "0"
+        },
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "BB": "0",
+          "AB": "4",
+          "battingOrder": "3",
+          "H": "4",
+          "IBB": "0",
+          "substitutionOrder": "0",
+          "HR": "0",
+          "TB": "6",
+          "3B": "1",
+          "GIDP": "0",
+          "2B": "0",
+          "R": "2",
+          "SF": "1",
+          "SAC": "0",
+          "HBP": "1",
+          "RBI": "4",
+          "SO": "0",
+          "AVG": "1.000"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "True",
+        "team": "SD",
+        "startingPosition": "1B",
+        "playerID": "630105"
+      },
+      "640492": {
+        "gameID": "20240321_SD@LAD",
+        "allPositionsPlayed": "PR-LF",
+        "Pitching": {
+          "Balk": "0",
+          "Groundouts": "0",
+          "Wild Pitch": "0",
+          "Flyouts": "0",
+          "Inherited Runners": "0",
+          "Batters Faced": "0",
+          "Pitches": "0",
+          "Strikes": "0",
+          "Inherited Runners Scored": "0"
+        },
+        "note": "Ran for Profar, J in the 6th.",
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "BB": "0",
+          "AB": "2",
+          "battingOrder": "6",
+          "H": "1",
+          "IBB": "0",
+          "substitutionOrder": "1",
+          "HR": "0",
+          "TB": "1",
+          "3B": "0",
+          "GIDP": "0",
+          "2B": "0",
+          "R": "1",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "RBI": "0",
+          "SO": "0",
+          "AVG": ".500"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "False",
+        "team": "SD",
+        "playerID": "640492"
+      },
+      "642180": {
+        "gameID": "20240321_SD@LAD",
+        "allPositionsPlayed": "3B",
+        "Pitching": {
+          "Balk": "0",
+          "Groundouts": "0",
+          "Wild Pitch": "0",
+          "Flyouts": "0",
+          "Inherited Runners": "0",
+          "Batters Faced": "0",
+          "Pitches": "0",
+          "Strikes": "0",
+          "Inherited Runners Scored": "0"
+        },
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "BB": "0",
+          "AB": "3",
+          "battingOrder": "8",
+          "H": "2",
+          "IBB": "0",
+          "substitutionOrder": "0",
+          "HR": "0",
+          "TB": "2",
+          "3B": "0",
+          "GIDP": "0",
+          "2B": "0",
+          "R": "1",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "RBI": "1",
+          "SO": "0",
+          "AVG": ".667"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "True",
+        "team": "SD",
+        "startingPosition": "3B",
+        "playerID": "642180"
+      },
+      "642232": {
+        "gameID": "20240321_SD@LAD",
+        "Pitching": {
+          "BB": "2",
+          "Balk": "0",
+          "Wild Pitch": "0",
+          "decision": "",
+          "Flyouts": "2",
+          "Inherited Runners": "0",
+          "H": "1",
+          "HR": "0",
+          "ER": "0",
+          "Strikes": "21",
+          "Inherited Runners Scored": "0",
+          "Groundouts": "2",
+          "R": "1",
+          "pitchingOrder": "5",
+          "ERA": "0.00",
+          "InningsPitched": "1.2",
+          "Batters Faced": "9",
+          "SO": "1",
+          "Pitches": "38"
+        },
+        "allPositionsPlayed": "P",
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "2B": "0",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "IBB": "0",
+          "HR": "0",
+          "TB": "0",
+          "3B": "0",
+          "GIDP": "0"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "False",
+        "team": "LAD",
+        "playerID": "642232"
+      },
+      "650633": {
+        "gameID": "20240321_SD@LAD",
+        "Pitching": {
+          "BB": "3",
+          "Balk": "0",
+          "Wild Pitch": "0",
+          "decision": "W",
+          "Flyouts": "0",
+          "Inherited Runners": "0",
+          "H": "4",
+          "HR": "1",
+          "ER": "3",
+          "Strikes": "43",
+          "Inherited Runners Scored": "0",
+          "Groundouts": "3",
+          "R": "3",
+          "pitchingOrder": "3",
+          "ERA": "8.10",
+          "InningsPitched": "3.1",
+          "Batters Faced": "17",
+          "SO": "5",
+          "Pitches": "75"
+        },
+        "allPositionsPlayed": "P",
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "2B": "0",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "IBB": "0",
+          "HR": "0",
+          "TB": "0",
+          "3B": "0",
+          "GIDP": "0"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "False",
+        "team": "SD",
+        "playerID": "650633"
+      },
+      "656420": {
+        "gameID": "20240321_SD@LAD",
+        "Pitching": {
+          "BB": "1",
+          "Balk": "0",
+          "Wild Pitch": "0",
+          "decision": "",
+          "Flyouts": "1",
+          "Inherited Runners": "0",
+          "H": "3",
+          "HR": "1",
+          "ER": "3",
+          "Strikes": "12",
+          "Inherited Runners Scored": "0",
+          "Groundouts": "1",
+          "R": "3",
+          "pitchingOrder": "6",
+          "ERA": "27.00",
+          "InningsPitched": "1.0",
+          "Batters Faced": "7",
+          "SO": "1",
+          "Pitches": "23"
+        },
+        "allPositionsPlayed": "P",
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "2B": "0",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "IBB": "0",
+          "HR": "0",
+          "TB": "0",
+          "3B": "0",
+          "GIDP": "0"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "False",
+        "team": "LAD",
+        "playerID": "656420"
+      },
+      "660271": {
+        "gameID": "20240321_SD@LAD",
+        "allPositionsPlayed": "DH",
+        "Pitching": {
+          "Balk": "0",
+          "Groundouts": "0",
+          "Wild Pitch": "0",
+          "Flyouts": "0",
+          "Inherited Runners": "0",
+          "Batters Faced": "0",
+          "Pitches": "0",
+          "Strikes": "0",
+          "Inherited Runners Scored": "0"
+        },
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "BB": "0",
+          "AB": "5",
+          "battingOrder": "2",
+          "H": "1",
+          "IBB": "0",
+          "substitutionOrder": "0",
+          "HR": "0",
+          "TB": "1",
+          "3B": "0",
+          "GIDP": "0",
+          "2B": "0",
+          "R": "1",
+          "SF": "1",
+          "SAC": "0",
+          "HBP": "0",
+          "RBI": "1",
+          "SO": "0",
+          "AVG": ".200"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "True",
+        "team": "LAD",
+        "startingPosition": "DH",
+        "playerID": "660271"
+      },
+      "663158": {
+        "gameID": "20240321_SD@LAD",
+        "Pitching": {
+          "BB": "0",
+          "Balk": "0",
+          "Wild Pitch": "1",
+          "decision": "S",
+          "Flyouts": "1",
+          "Inherited Runners": "2",
+          "H": "1",
+          "HR": "0",
+          "ER": "0",
+          "Strikes": "16",
+          "Inherited Runners Scored": "2",
+          "Groundouts": "1",
+          "R": "0",
+          "pitchingOrder": "6",
+          "ERA": "0.00",
+          "InningsPitched": "1.1",
+          "Batters Faced": "5",
+          "SO": "2",
+          "Pitches": "24"
+        },
+        "allPositionsPlayed": "P",
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "2B": "0",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "IBB": "0",
+          "HR": "0",
+          "TB": "0",
+          "3B": "0",
+          "GIDP": "0"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "False",
+        "team": "SD",
+        "playerID": "663158"
+      },
+      "663568": {
+        "gameID": "20240321_SD@LAD",
+        "Pitching": {
+          "BB": "1",
+          "Balk": "0",
+          "Wild Pitch": "0",
+          "decision": "H",
+          "Flyouts": "1",
+          "Inherited Runners": "0",
+          "H": "0",
+          "HR": "0",
+          "ER": "2",
+          "Strikes": "7",
+          "Inherited Runners Scored": "0",
+          "Groundouts": "1",
+          "R": "2",
+          "pitchingOrder": "5",
+          "ERA": "27.00",
+          "InningsPitched": "0.2",
+          "Batters Faced": "4",
+          "SO": "0",
+          "Pitches": "13"
+        },
+        "allPositionsPlayed": "P",
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "2B": "0",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "IBB": "0",
+          "HR": "0",
+          "TB": "0",
+          "3B": "0",
+          "GIDP": "0"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "False",
+        "team": "SD",
+        "playerID": "663568"
+      },
+      "665487": {
+        "gameID": "20240321_SD@LAD",
+        "allPositionsPlayed": "RF",
+        "Pitching": {
+          "Balk": "0",
+          "Groundouts": "0",
+          "Wild Pitch": "0",
+          "Flyouts": "0",
+          "Inherited Runners": "0",
+          "Batters Faced": "0",
+          "Pitches": "0",
+          "Strikes": "0",
+          "Inherited Runners Scored": "0"
+        },
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "BB": "1",
+          "AB": "4",
+          "battingOrder": "2",
+          "H": "3",
+          "IBB": "0",
+          "substitutionOrder": "0",
+          "HR": "0",
+          "TB": "3",
+          "3B": "0",
+          "GIDP": "0",
+          "2B": "0",
+          "R": "2",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "1",
+          "RBI": "1",
+          "SO": "0",
+          "AVG": ".750"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "True",
+        "team": "SD",
+        "startingPosition": "RF",
+        "playerID": "665487"
+      },
+      "666158": {
+        "gameID": "20240321_SD@LAD",
+        "allPositionsPlayed": "2B",
+        "Pitching": {
+          "Balk": "0",
+          "Groundouts": "0",
+          "Wild Pitch": "0",
+          "Flyouts": "0",
+          "Inherited Runners": "0",
+          "Batters Faced": "0",
+          "Pitches": "0",
+          "Strikes": "0",
+          "Inherited Runners Scored": "0"
+        },
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "BB": "0",
+          "AB": "5",
+          "battingOrder": "9",
+          "H": "2",
+          "IBB": "0",
+          "substitutionOrder": "0",
+          "HR": "0",
+          "TB": "2",
+          "3B": "0",
+          "GIDP": "0",
+          "2B": "0",
+          "R": "2",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "RBI": "0",
+          "SO": "1",
+          "AVG": ".400"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "True",
+        "team": "LAD",
+        "startingPosition": "2B",
+        "playerID": "666158"
+      },
+      "666703": {
+        "gameID": "20240321_SD@LAD",
+        "allPositionsPlayed": "PH-3B",
+        "Pitching": {
+          "Balk": "0",
+          "Groundouts": "0",
+          "Wild Pitch": "0",
+          "Flyouts": "0",
+          "Inherited Runners": "0",
+          "Batters Faced": "0",
+          "Pitches": "0",
+          "Strikes": "0",
+          "Inherited Runners Scored": "0"
+        },
+        "note": "Struck out for Wade in the 6th.",
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "BB": "0",
+          "AB": "3",
+          "battingOrder": "8",
+          "H": "0",
+          "IBB": "0",
+          "substitutionOrder": "1",
+          "HR": "0",
+          "TB": "0",
+          "3B": "0",
+          "GIDP": "0",
+          "2B": "0",
+          "R": "0",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "RBI": "0",
+          "SO": "1",
+          "AVG": ".000"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "False",
+        "team": "SD",
+        "playerID": "666703"
+      },
+      "669134": {
+        "gameID": "20240321_SD@LAD",
+        "allPositionsPlayed": "C",
+        "Pitching": {
+          "Balk": "0",
+          "Groundouts": "0",
+          "Wild Pitch": "0",
+          "Flyouts": "0",
+          "Inherited Runners": "0",
+          "Batters Faced": "0",
+          "Pitches": "0",
+          "Strikes": "0",
+          "Inherited Runners Scored": "0"
+        },
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "BB": "0",
+          "AB": "6",
+          "battingOrder": "7",
+          "H": "3",
+          "IBB": "0",
+          "substitutionOrder": "0",
+          "HR": "0",
+          "TB": "5",
+          "3B": "0",
+          "GIDP": "0",
+          "2B": "2",
+          "R": "2",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "RBI": "2",
+          "SO": "0",
+          "AVG": ".500"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "True",
+        "team": "SD",
+        "startingPosition": "C",
+        "playerID": "669134"
+      },
+      "669165": {
+        "gameID": "20240321_SD@LAD",
+        "Pitching": {
+          "BB": "1",
+          "Balk": "0",
+          "Wild Pitch": "0",
+          "decision": "",
+          "Flyouts": "1",
+          "Inherited Runners": "0",
+          "H": "3",
+          "HR": "0",
+          "ER": "1",
+          "Strikes": "22",
+          "Inherited Runners Scored": "0",
+          "Groundouts": "3",
+          "R": "1",
+          "pitchingOrder": "3",
+          "ERA": "4.50",
+          "InningsPitched": "2.0",
+          "Batters Faced": "9",
+          "SO": "0",
+          "Pitches": "29"
+        },
+        "allPositionsPlayed": "P",
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "2B": "0",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "IBB": "0",
+          "HR": "0",
+          "TB": "0",
+          "3B": "0",
+          "GIDP": "0"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "False",
+        "team": "LAD",
+        "playerID": "669165"
+      },
+      "669257": {
+        "gameID": "20240321_SD@LAD",
+        "allPositionsPlayed": "C",
+        "Pitching": {
+          "Balk": "0",
+          "Groundouts": "0",
+          "Wild Pitch": "0",
+          "Flyouts": "0",
+          "Inherited Runners": "0",
+          "Batters Faced": "0",
+          "Pitches": "0",
+          "Strikes": "0",
+          "Inherited Runners Scored": "0"
+        },
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "BB": "0",
+          "AB": "6",
+          "battingOrder": "4",
+          "H": "4",
+          "IBB": "0",
+          "substitutionOrder": "0",
+          "HR": "0",
+          "TB": "5",
+          "3B": "0",
+          "GIDP": "0",
+          "2B": "1",
+          "R": "1",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "RBI": "2",
+          "SO": "1",
+          "AVG": ".667"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "True",
+        "team": "LAD",
+        "startingPosition": "C",
+        "playerID": "669257"
+      },
+      "673490": {
+        "gameID": "20240321_SD@LAD",
+        "allPositionsPlayed": "SS",
+        "Pitching": {
+          "Balk": "0",
+          "Groundouts": "0",
+          "Wild Pitch": "0",
+          "Flyouts": "0",
+          "Inherited Runners": "0",
+          "Batters Faced": "0",
+          "Pitches": "0",
+          "Strikes": "0",
+          "Inherited Runners Scored": "0"
+        },
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "BB": "1",
+          "AB": "4",
+          "battingOrder": "5",
+          "H": "0",
+          "IBB": "0",
+          "substitutionOrder": "0",
+          "HR": "0",
+          "TB": "0",
+          "3B": "0",
+          "GIDP": "0",
+          "2B": "0",
+          "R": "0",
+          "SF": "1",
+          "SAC": "0",
+          "HBP": "0",
+          "RBI": "1",
+          "SO": "0",
+          "AVG": ".000"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "1",
+          "PO": "0"
+        },
+        "started": "True",
+        "team": "SD",
+        "startingPosition": "SS",
+        "playerID": "673490"
+      },
+      "673513": {
+        "gameID": "20240321_SD@LAD",
+        "Pitching": {
+          "BB": "0",
+          "Balk": "0",
+          "Wild Pitch": "0",
+          "decision": "",
+          "Flyouts": "1",
+          "Inherited Runners": "1",
+          "H": "2",
+          "HR": "0",
+          "ER": "0",
+          "Strikes": "7",
+          "Inherited Runners Scored": "1",
+          "Groundouts": "0",
+          "R": "0",
+          "pitchingOrder": "4",
+          "ERA": "0.00",
+          "InningsPitched": "0.2",
+          "Batters Faced": "4",
+          "SO": "0",
+          "Pitches": "9"
+        },
+        "allPositionsPlayed": "P",
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "2B": "0",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "IBB": "0",
+          "HR": "0",
+          "TB": "0",
+          "3B": "0",
+          "GIDP": "0"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "False",
+        "team": "SD",
+        "playerID": "673513"
+      },
+      "675627": {
+        "gameID": "20240321_SD@LAD",
+        "Pitching": {
+          "BB": "0",
+          "Balk": "0",
+          "Wild Pitch": "0",
+          "decision": "",
+          "Flyouts": "0",
+          "Inherited Runners": "0",
+          "H": "6",
+          "HR": "0",
+          "ER": "4",
+          "Strikes": "28",
+          "Inherited Runners Scored": "0",
+          "Groundouts": "1",
+          "R": "4",
+          "pitchingOrder": "2",
+          "ERA": "18.00",
+          "InningsPitched": "2.0",
+          "Batters Faced": "13",
+          "SO": "2",
+          "Pitches": "40"
+        },
+        "allPositionsPlayed": "P",
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "2B": "0",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "IBB": "0",
+          "HR": "0",
+          "TB": "0",
+          "3B": "0",
+          "GIDP": "0"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "False",
+        "team": "LAD",
+        "playerID": "675627"
+      },
+      "676680": {
+        "gameID": "20240321_SD@LAD",
+        "Pitching": {
+          "BB": "0",
+          "Balk": "0",
+          "Wild Pitch": "0",
+          "decision": "",
+          "Flyouts": "0",
+          "Inherited Runners": "1",
+          "H": "2",
+          "HR": "0",
+          "ER": "1",
+          "Strikes": "8",
+          "Inherited Runners Scored": "1",
+          "Groundouts": "1",
+          "R": "1",
+          "pitchingOrder": "2",
+          "ERA": "9.00",
+          "InningsPitched": "0.1",
+          "Batters Faced": "3",
+          "SO": "0",
+          "Pitches": "10"
+        },
+        "allPositionsPlayed": "P",
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "2B": "0",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "IBB": "0",
+          "HR": "0",
+          "TB": "0",
+          "3B": "0",
+          "GIDP": "0"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "False",
+        "team": "SD",
+        "playerID": "676680"
+      },
+      "681402": {
+        "gameID": "20240321_SD@LAD",
+        "Pitching": {
+          "BB": "0",
+          "Balk": "0",
+          "Wild Pitch": "0",
+          "decision": "",
+          "Flyouts": "0",
+          "Inherited Runners": "1",
+          "H": "0",
+          "HR": "0",
+          "ER": "0",
+          "Strikes": "2",
+          "Inherited Runners Scored": "0",
+          "Groundouts": "1",
+          "R": "0",
+          "pitchingOrder": "7",
+          "ERA": "0.00",
+          "InningsPitched": "0.1",
+          "Batters Faced": "1",
+          "SO": "0",
+          "Pitches": "2"
+        },
+        "allPositionsPlayed": "P",
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "2B": "0",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "IBB": "0",
+          "HR": "0",
+          "TB": "0",
+          "3B": "0",
+          "GIDP": "0"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "False",
+        "team": "LAD",
+        "playerID": "681402"
+      },
+      "681546": {
+        "gameID": "20240321_SD@LAD",
+        "allPositionsPlayed": "CF",
+        "Pitching": {
+          "Balk": "0",
+          "Groundouts": "0",
+          "Wild Pitch": "0",
+          "Flyouts": "0",
+          "Inherited Runners": "0",
+          "Batters Faced": "0",
+          "Pitches": "0",
+          "Strikes": "0",
+          "Inherited Runners Scored": "0"
+        },
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "1",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "BB": "1",
+          "AB": "3",
+          "battingOrder": "7",
+          "H": "0",
+          "IBB": "0",
+          "substitutionOrder": "0",
+          "HR": "0",
+          "TB": "0",
+          "3B": "0",
+          "GIDP": "0",
+          "2B": "0",
+          "R": "1",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "1",
+          "RBI": "1",
+          "SO": "0",
+          "AVG": ".000"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "True",
+        "team": "LAD",
+        "startingPosition": "CF",
+        "playerID": "681546"
+      },
+      "681911": {
+        "gameID": "20240321_SD@LAD",
+        "Pitching": {
+          "BB": "1",
+          "Balk": "0",
+          "Wild Pitch": "1",
+          "decision": "",
+          "Flyouts": "1",
+          "Inherited Runners": "0",
+          "H": "1",
+          "HR": "0",
+          "ER": "1",
+          "Strikes": "11",
+          "Inherited Runners Scored": "0",
+          "Groundouts": "0",
+          "R": "1",
+          "pitchingOrder": "4",
+          "ERA": "9.00",
+          "InningsPitched": "1.0",
+          "Batters Faced": "5",
+          "SO": "2",
+          "Pitches": "19"
+        },
+        "allPositionsPlayed": "P",
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "2B": "0",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "IBB": "0",
+          "HR": "0",
+          "TB": "0",
+          "3B": "0",
+          "GIDP": "0"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "False",
+        "team": "LAD",
+        "playerID": "681911"
+      },
+      "701538": {
+        "gameID": "20240321_SD@LAD",
+        "allPositionsPlayed": "CF",
+        "Pitching": {
+          "Balk": "0",
+          "Groundouts": "0",
+          "Wild Pitch": "0",
+          "Flyouts": "0",
+          "Inherited Runners": "0",
+          "Batters Faced": "0",
+          "Pitches": "0",
+          "Strikes": "0",
+          "Inherited Runners Scored": "0"
+        },
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "BB": "0",
+          "AB": "5",
+          "battingOrder": "9",
+          "H": "2",
+          "IBB": "0",
+          "substitutionOrder": "0",
+          "HR": "0",
+          "TB": "3",
+          "3B": "0",
+          "GIDP": "0",
+          "2B": "1",
+          "R": "2",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "RBI": "0",
+          "SO": "3",
+          "AVG": ".400"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "True",
+        "team": "SD",
+        "startingPosition": "CF",
+        "playerID": "701538"
+      },
+      "808967": {
+        "gameID": "20240321_SD@LAD",
+        "Pitching": {
+          "BB": "1",
+          "Balk": "0",
+          "Wild Pitch": "1",
+          "decision": "L",
+          "Flyouts": "1",
+          "Inherited Runners": "0",
+          "H": "4",
+          "HR": "0",
+          "ER": "5",
+          "Strikes": "23",
+          "Inherited Runners Scored": "0",
+          "Groundouts": "0",
+          "R": "5",
+          "pitchingOrder": "1",
+          "ERA": "45.00",
+          "InningsPitched": "1.0",
+          "Batters Faced": "9",
+          "SO": "2",
+          "Pitches": "43"
+        },
+        "allPositionsPlayed": "P",
+        "Fielding": {
+          "Passed Ball": "0",
+          "Outfield assists": "0",
+          "E": "0",
+          "Pickoffs": "0"
+        },
+        "Hitting": {
+          "2B": "0",
+          "SF": "0",
+          "SAC": "0",
+          "HBP": "0",
+          "IBB": "0",
+          "HR": "0",
+          "TB": "0",
+          "3B": "0",
+          "GIDP": "0"
+        },
+        "BaseRunning": {
+          "CS": "0",
+          "SB": "0",
+          "PO": "0"
+        },
+        "started": "True",
+        "team": "LAD",
+        "playerID": "808967"
+      }
+    },
+    "decisions": [
+      {
+        "decision": "W",
+        "playerID": "650633",
+        "team": "SD"
+      },
+      {
+        "decision": "HLD",
+        "playerID": "663568",
+        "team": "SD"
+      },
+      {
+        "decision": "S",
+        "playerID": "663158",
+        "team": "SD"
+      },
+      {
+        "decision": "L",
+        "playerID": "808967",
+        "team": "LAD"
+      }
+    ],
+    "currentBatter": "",
+    "bases": {},
+    "awayResult": "W",
+    "Weather": "72 degrees, Dome",
+    "currentPitcher": "",
+    "currentInning": "Final",
+    "gameID": "20240321_SD@LAD",
+    "startingLineups": {
+      "away": {
+        "team": "SD",
+        "starters": [
+          {
+            "playerID": "605397",
+            "startingPitcher": "True",
+            "battingOrder": "0"
+          },
+          {
+            "playerID": "593428",
+            "startingPitcher": "False",
+            "battingOrder": "1"
+          },
+          {
+            "playerID": "665487",
+            "startingPitcher": "False",
+            "battingOrder": "2"
+          },
+          {
+            "playerID": "630105",
+            "startingPitcher": "False",
+            "battingOrder": "3"
+          },
+          {
+            "playerID": "592518",
+            "startingPitcher": "False",
+            "battingOrder": "4"
+          },
+          {
+            "playerID": "673490",
+            "startingPitcher": "False",
+            "battingOrder": "5"
+          },
+          {
+            "playerID": "595777",
+            "startingPitcher": "False",
+            "battingOrder": "6"
+          },
+          {
+            "playerID": "669134",
+            "startingPitcher": "False",
+            "battingOrder": "7"
+          },
+          {
+            "playerID": "642180",
+            "startingPitcher": "False",
+            "battingOrder": "8"
+          },
+          {
+            "playerID": "701538",
+            "startingPitcher": "False",
+            "battingOrder": "9"
+          }
+        ]
+      },
+      "home": {
+        "team": "LAD",
+        "starters": [
+          {
+            "playerID": "808967",
+            "startingPitcher": "True",
+            "battingOrder": "0"
+          },
+          {
+            "playerID": "605141",
+            "startingPitcher": "False",
+            "battingOrder": "1"
+          },
+          {
+            "playerID": "660271",
+            "startingPitcher": "False",
+            "battingOrder": "2"
+          },
+          {
+            "playerID": "518692",
+            "startingPitcher": "False",
+            "battingOrder": "3"
+          },
+          {
+            "playerID": "669257",
+            "startingPitcher": "False",
+            "battingOrder": "4"
+          },
+          {
+            "playerID": "571970",
+            "startingPitcher": "False",
+            "battingOrder": "5"
+          },
+          {
+            "playerID": "606192",
+            "startingPitcher": "False",
+            "battingOrder": "6"
+          },
+          {
+            "playerID": "681546",
+            "startingPitcher": "False",
+            "battingOrder": "7"
+          },
+          {
+            "playerID": "518792",
+            "startingPitcher": "False",
+            "battingOrder": "8"
+          },
+          {
+            "playerID": "666158",
+            "startingPitcher": "False",
+            "battingOrder": "9"
+          }
+        ]
+      }
+    }
+  }
+}

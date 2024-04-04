@@ -59,6 +59,7 @@ export async function getMLBGamesForDate(gameDate) {
 
 // Api for get MLB game for Daily Scoreboard - Live - Real Time
 export async function getMLBScoresOnly(gameDate, topPerformers) {
+  console.log("Gaame", gameDate)
   const url =
     "https://tank01-mlb-live-in-game-real-time-statistics.p.rapidapi.com/getMLBScoresOnly";
   const params = { gameDate: gameDate, topPerformers: 'true' };
@@ -67,6 +68,20 @@ export async function getMLBScoresOnly(gameDate, topPerformers) {
 
 export async function getMLBScoresOnlyLocal(gameDate, topPerformers) {
   const url = "../../ForHeader.json";
+  return fetchData(url);
+}
+
+// Api for get MLB game team score
+export async function getMLBBoxScore(gameID, startingLineups) {
+  const url =
+    "https://tank01-mlb-live-in-game-real-time-statistics.p.rapidapi.com/getMLBBoxScore";
+  const params = { gameID: gameID, startingLineups: "true" };
+  return fetchData(url, { params });
+}
+
+export async function getMLBBoxScoreLocal(gameID, startingLineups) {
+  console.log("Entrando a getMLBBoxScoreLocal");
+  const url = "../../getMLBBoxScore.json";
   return fetchData(url);
 }
 

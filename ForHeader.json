@@ -1,0 +1,4789 @@
+{
+  "statusCode": 200,
+  "body": {
+    "20230410_NYY@CLE": {
+      "away": "NYY",
+      "home": "CLE",
+      "teamIDAway": "19",
+      "teamIDHome": "8",
+      "gameTime": "6:10p",
+      "gameTime_epoch": "1681164600.0",
+      "lineScore": {
+        "away": {
+          "H": "6",
+          "R": "2",
+          "team": "NYY",
+          "scoresByInning": {
+            "1": "2",
+            "2": "0",
+            "3": "0",
+            "4": "0",
+            "5": "0",
+            "6": "0",
+            "7": "0",
+            "8": "0",
+            "9": "0"
+          },
+          "E": "1"
+        },
+        "home": {
+          "H": "4",
+          "R": "3",
+          "team": "CLE",
+          "scoresByInning": {
+            "1": "0",
+            "2": "1",
+            "3": "0",
+            "4": "1",
+            "5": "0",
+            "6": "0",
+            "7": "1",
+            "8": "0",
+            "9": "x"
+          },
+          "E": "0"
+        }
+      },
+      "currentInning": "Final",
+      "currentCount": "",
+      "currentOuts": "",
+      "awayResult": "L",
+      "homeResult": "W",
+      "topPerformers": {
+        "NYY": {
+          "Hitting": {
+            "2B": {
+              "playerID": [
+                "641432",
+                "650402",
+                "519317"
+              ],
+              "total": "1"
+            },
+            "3B": {
+              "playerID": [
+                "650402"
+              ],
+              "total": "1"
+            },
+            "AB": {
+              "playerID": [
+                "519203",
+                "641432",
+                "519317"
+              ],
+              "total": "4"
+            },
+            "BB": {
+              "playerID": [
+                "650402",
+                "614173",
+                "592450"
+              ],
+              "total": "1"
+            },
+            "GIDP": {
+              "playerID": [
+                "643396"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "650402"
+              ],
+              "total": "2"
+            },
+            "R": {
+              "playerID": [
+                "650402",
+                "592450"
+              ],
+              "total": "1"
+            },
+            "RBI": {
+              "playerID": [
+                "519317"
+              ],
+              "total": "2"
+            },
+            "SO": {
+              "playerID": [
+                "614173",
+                "592450"
+              ],
+              "total": "2"
+            },
+            "TB": {
+              "playerID": [
+                "650402"
+              ],
+              "total": "5"
+            }
+          },
+          "Fielding": {
+            "E": {
+              "playerID": [
+                "593334"
+              ],
+              "total": "1"
+            }
+          },
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "593334"
+              ],
+              "total": "17"
+            },
+            "BB": {
+              "playerID": [
+                "593334"
+              ],
+              "total": "5"
+            },
+            "ER": {
+              "playerID": [
+                "593334",
+                "641656"
+              ],
+              "total": "1"
+            },
+            "Flyouts": {
+              "playerID": [
+                "593334"
+              ],
+              "total": "3"
+            },
+            "Groundouts": {
+              "playerID": [
+                "605155"
+              ],
+              "total": "7"
+            },
+            "H": {
+              "playerID": [
+                "593334"
+              ],
+              "total": "2"
+            },
+            "Pitches": {
+              "playerID": [
+                "593334"
+              ],
+              "total": "87"
+            },
+            "R": {
+              "playerID": [
+                "593334"
+              ],
+              "total": "2"
+            },
+            "SO": {
+              "playerID": [
+                "641656"
+              ],
+              "total": "3"
+            },
+            "Strikes": {
+              "playerID": [
+                "593334"
+              ],
+              "total": "49"
+            }
+          },
+          "BaseRunning": {
+            "SB": {
+              "playerID": [
+                "643396"
+              ],
+              "total": "1"
+            }
+          }
+        },
+        "CLE": {
+          "Hitting": {
+            "2B": {
+              "playerID": [
+                "572287"
+              ],
+              "total": "3"
+            },
+            "AB": {
+              "playerID": [
+                "665926",
+                "608070"
+              ],
+              "total": "4"
+            },
+            "BB": {
+              "playerID": [
+                "642708",
+                "686823",
+                "680757"
+              ],
+              "total": "2"
+            },
+            "GIDP": {
+              "playerID": [
+                "642708"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "572287"
+              ],
+              "total": "3"
+            },
+            "R": {
+              "playerID": [
+                "605137",
+                "665926",
+                "680757"
+              ],
+              "total": "1"
+            },
+            "RBI": {
+              "playerID": [
+                "647304",
+                "686823",
+                "572287"
+              ],
+              "total": "1"
+            },
+            "SF": {
+              "playerID": [
+                "647304",
+                "686823"
+              ],
+              "total": "1"
+            },
+            "SO": {
+              "playerID": [
+                "665926"
+              ],
+              "total": "2"
+            },
+            "TB": {
+              "playerID": [
+                "572287"
+              ],
+              "total": "6"
+            }
+          },
+          "Fielding": {},
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "669456"
+              ],
+              "total": "27"
+            },
+            "BB": {
+              "playerID": [
+                "669456"
+              ],
+              "total": "3"
+            },
+            "ER": {
+              "playerID": [
+                "669456"
+              ],
+              "total": "2"
+            },
+            "Flyouts": {
+              "playerID": [
+                "669456"
+              ],
+              "total": "3"
+            },
+            "Groundouts": {
+              "playerID": [
+                "669456"
+              ],
+              "total": "8"
+            },
+            "H": {
+              "playerID": [
+                "669456"
+              ],
+              "total": "5"
+            },
+            "Pitches": {
+              "playerID": [
+                "669456"
+              ],
+              "total": "99"
+            },
+            "R": {
+              "playerID": [
+                "669456"
+              ],
+              "total": "2"
+            },
+            "SO": {
+              "playerID": [
+                "669456"
+              ],
+              "total": "4"
+            },
+            "Strikes": {
+              "playerID": [
+                "669456"
+              ],
+              "total": "56"
+            }
+          },
+          "BaseRunning": {
+            "SB": {
+              "playerID": [
+                "642708",
+                "665926",
+                "608070",
+                "680757"
+              ],
+              "total": "1"
+            }
+          }
+        }
+      },
+      "gameID": "20230410_NYY@CLE",
+      "gameStatus": "Completed"
+    },
+    "20230410_STL@COL": {
+      "away": "STL",
+      "home": "COL",
+      "teamIDAway": "26",
+      "teamIDHome": "9",
+      "gameTime": "6:41p",
+      "gameTime_epoch": "1681166460.0",
+      "lineScore": {
+        "away": {
+          "H": "6",
+          "R": "4",
+          "team": "STL",
+          "scoresByInning": {
+            "1": "0",
+            "2": "0",
+            "3": "0",
+            "4": "2",
+            "5": "0",
+            "6": "1",
+            "7": "0",
+            "8": "0",
+            "9": "1"
+          },
+          "E": "2"
+        },
+        "home": {
+          "H": "13",
+          "R": "7",
+          "team": "COL",
+          "scoresByInning": {
+            "1": "0",
+            "2": "0",
+            "3": "2",
+            "4": "2",
+            "5": "0",
+            "6": "2",
+            "7": "1",
+            "8": "0",
+            "9": "x"
+          },
+          "E": "1"
+        }
+      },
+      "currentInning": "Final",
+      "currentCount": "",
+      "currentOuts": "",
+      "awayResult": "L",
+      "homeResult": "W",
+      "topPerformers": {
+        "STL": {
+          "Hitting": {
+            "2B": {
+              "playerID": [
+                "669357"
+              ],
+              "total": "1"
+            },
+            "3B": {
+              "playerID": [
+                "676475"
+              ],
+              "total": "1"
+            },
+            "AB": {
+              "playerID": [
+                "669357",
+                "571448",
+                "676475",
+                "575929",
+                "680977",
+                "691023"
+              ],
+              "total": "4"
+            },
+            "BB": {
+              "playerID": [
+                "502671",
+                "669242"
+              ],
+              "total": "1"
+            },
+            "GIDP": {
+              "playerID": [
+                "571448",
+                "676475"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "502671"
+              ],
+              "total": "2"
+            },
+            "R": {
+              "playerID": [
+                "680977"
+              ],
+              "total": "2"
+            },
+            "RBI": {
+              "playerID": [
+                "502671"
+              ],
+              "total": "2"
+            },
+            "SO": {
+              "playerID": [
+                "575929"
+              ],
+              "total": "2"
+            },
+            "TB": {
+              "playerID": [
+                "676475"
+              ],
+              "total": "3"
+            }
+          },
+          "Fielding": {
+            "E": {
+              "playerID": [
+                "669357",
+                "669242"
+              ],
+              "total": "1"
+            }
+          },
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "571927"
+              ],
+              "total": "26"
+            },
+            "BB": {
+              "playerID": [
+                "571927"
+              ],
+              "total": "2"
+            },
+            "ER": {
+              "playerID": [
+                "571927"
+              ],
+              "total": "6"
+            },
+            "Flyouts": {
+              "playerID": [
+                "571927"
+              ],
+              "total": "3"
+            },
+            "Groundouts": {
+              "playerID": [
+                "571927"
+              ],
+              "total": "6"
+            },
+            "H": {
+              "playerID": [
+                "571927"
+              ],
+              "total": "9"
+            },
+            "Pitches": {
+              "playerID": [
+                "571927"
+              ],
+              "total": "92"
+            },
+            "R": {
+              "playerID": [
+                "571927"
+              ],
+              "total": "6"
+            },
+            "SO": {
+              "playerID": [
+                "571927"
+              ],
+              "total": "4"
+            },
+            "Strikes": {
+              "playerID": [
+                "571927"
+              ],
+              "total": "60"
+            }
+          },
+          "BaseRunning": {}
+        },
+        "COL": {
+          "Hitting": {
+            "2B": {
+              "playerID": [
+                "678662"
+              ],
+              "total": "2"
+            },
+            "AB": {
+              "playerID": [
+                "676701",
+                "595777",
+                "453568",
+                "543068",
+                "592178",
+                "602074",
+                "660707",
+                "678662"
+              ],
+              "total": "4"
+            },
+            "BB": {
+              "playerID": [
+                "453568",
+                "553869"
+              ],
+              "total": "1"
+            },
+            "GIDP": {
+              "playerID": [
+                "453568",
+                "553869"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "676701"
+              ],
+              "total": "3"
+            },
+            "R": {
+              "playerID": [
+                "553869",
+                "660707"
+              ],
+              "total": "2"
+            },
+            "RBI": {
+              "playerID": [
+                "676701"
+              ],
+              "total": "2"
+            },
+            "SF": {
+              "playerID": [
+                "595777"
+              ],
+              "total": "1"
+            },
+            "SO": {
+              "playerID": [
+                "543068"
+              ],
+              "total": "3"
+            },
+            "TB": {
+              "playerID": [
+                "678662"
+              ],
+              "total": "4"
+            }
+          },
+          "Fielding": {
+            "E": {
+              "playerID": [
+                "595777"
+              ],
+              "total": "1"
+            }
+          },
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "608566"
+              ],
+              "total": "18"
+            },
+            "BB": {
+              "playerID": [
+                "664875"
+              ],
+              "total": "2"
+            },
+            "ER": {
+              "playerID": [
+                "608566"
+              ],
+              "total": "2"
+            },
+            "Flyouts": {
+              "playerID": [
+                "608718",
+                "664875"
+              ],
+              "total": "2"
+            },
+            "Groundouts": {
+              "playerID": [
+                "608566"
+              ],
+              "total": "9"
+            },
+            "H": {
+              "playerID": [
+                "608566"
+              ],
+              "total": "3"
+            },
+            "Pitches": {
+              "playerID": [
+                "608566"
+              ],
+              "total": "62"
+            },
+            "R": {
+              "playerID": [
+                "608566"
+              ],
+              "total": "2"
+            },
+            "SO": {
+              "playerID": [
+                "608566"
+              ],
+              "total": "4"
+            },
+            "Strikes": {
+              "playerID": [
+                "608566"
+              ],
+              "total": "42"
+            }
+          },
+          "BaseRunning": {
+            "CS": {
+              "playerID": [
+                "453568"
+              ],
+              "total": "1"
+            }
+          }
+        }
+      },
+      "gameID": "20230410_STL@COL",
+      "gameStatus": "Completed"
+    },
+    "20230410_WAS@LAA": {
+      "away": "WAS",
+      "home": "LAA",
+      "teamIDAway": "30",
+      "teamIDHome": "13",
+      "gameTime": "6:38p",
+      "gameTime_epoch": "1681166280.0",
+      "lineScore": {
+        "away": {
+          "H": "14",
+          "R": "6",
+          "team": "WAS",
+          "scoresByInning": {
+            "1": "0",
+            "2": "1",
+            "3": "0",
+            "4": "3",
+            "5": "1",
+            "6": "0",
+            "7": "1",
+            "8": "0",
+            "9": "0"
+          },
+          "E": "0"
+        },
+        "home": {
+          "H": "7",
+          "R": "4",
+          "team": "LAA",
+          "scoresByInning": {
+            "1": "2",
+            "2": "0",
+            "3": "2",
+            "4": "0",
+            "5": "0",
+            "6": "0",
+            "7": "0",
+            "8": "0",
+            "9": "0"
+          },
+          "E": "1"
+        }
+      },
+      "currentInning": "Final",
+      "currentCount": "",
+      "currentOuts": "",
+      "awayResult": "W",
+      "homeResult": "L",
+      "topPerformers": {
+        "WAS": {
+          "Hitting": {
+            "2B": {
+              "playerID": [
+                "608841",
+                "660688"
+              ],
+              "total": "1"
+            },
+            "AB": {
+              "playerID": [
+                "608841",
+                "669743",
+                "600869",
+                "660688",
+                "657041"
+              ],
+              "total": "5"
+            },
+            "BB": {
+              "playerID": [
+                "642086",
+                "656308"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "645302",
+                "608841",
+                "642086",
+                "669743",
+                "600869"
+              ],
+              "total": "2"
+            },
+            "R": {
+              "playerID": [
+                "642086"
+              ],
+              "total": "2"
+            },
+            "RBI": {
+              "playerID": [
+                "682928",
+                "600869"
+              ],
+              "total": "2"
+            },
+            "SAC": {
+              "playerID": [
+                "645302"
+              ],
+              "total": "1"
+            },
+            "SO": {
+              "playerID": [
+                "656308",
+                "657041"
+              ],
+              "total": "2"
+            },
+            "TB": {
+              "playerID": [
+                "608841"
+              ],
+              "total": "3"
+            }
+          },
+          "Fielding": {},
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "571578"
+              ],
+              "total": "25"
+            },
+            "BB": {
+              "playerID": [
+                "571578"
+              ],
+              "total": "3"
+            },
+            "ER": {
+              "playerID": [
+                "571578"
+              ],
+              "total": "4"
+            },
+            "Flyouts": {
+              "playerID": [
+                "666168",
+                "605218",
+                "640448",
+                "571578"
+              ],
+              "total": "1"
+            },
+            "Groundouts": {
+              "playerID": [
+                "571578"
+              ],
+              "total": "9"
+            },
+            "H": {
+              "playerID": [
+                "571578"
+              ],
+              "total": "7"
+            },
+            "HR": {
+              "playerID": [
+                "571578"
+              ],
+              "total": "1"
+            },
+            "Pitches": {
+              "playerID": [
+                "571578"
+              ],
+              "total": "86"
+            },
+            "R": {
+              "playerID": [
+                "571578"
+              ],
+              "total": "4"
+            },
+            "SO": {
+              "playerID": [
+                "571578"
+              ],
+              "total": "3"
+            },
+            "Strikes": {
+              "playerID": [
+                "571578"
+              ],
+              "total": "53"
+            }
+          },
+          "BaseRunning": {
+            "SB": {
+              "playerID": [
+                "645302",
+                "682928"
+              ],
+              "total": "1"
+            }
+          }
+        },
+        "LAA": {
+          "Hitting": {
+            "2B": {
+              "playerID": [
+                "570482"
+              ],
+              "total": "1"
+            },
+            "AB": {
+              "playerID": [
+                "545361"
+              ],
+              "total": "5"
+            },
+            "BB": {
+              "playerID": [
+                "592669",
+                "621493",
+                "660271",
+                "592273"
+              ],
+              "total": "1"
+            },
+            "GIDP": {
+              "playerID": [
+                "592273"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "592669",
+                "650859"
+              ],
+              "total": "2"
+            },
+            "HBP": {
+              "playerID": [
+                "681351"
+              ],
+              "total": "1"
+            },
+            "HR": {
+              "playerID": [
+                "592669"
+              ],
+              "total": "1"
+            },
+            "R": {
+              "playerID": [
+                "592669"
+              ],
+              "total": "2"
+            },
+            "RBI": {
+              "playerID": [
+                "650859"
+              ],
+              "total": "2"
+            },
+            "SO": {
+              "playerID": [
+                "545361"
+              ],
+              "total": "3"
+            },
+            "TB": {
+              "playerID": [
+                "592669"
+              ],
+              "total": "5"
+            }
+          },
+          "Fielding": {
+            "E": {
+              "playerID": [
+                "650859"
+              ],
+              "total": "1"
+            }
+          },
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "660761"
+              ],
+              "total": "23"
+            },
+            "BB": {
+              "playerID": [
+                "519043",
+                "660761"
+              ],
+              "total": "1"
+            },
+            "ER": {
+              "playerID": [
+                "660761"
+              ],
+              "total": "4"
+            },
+            "Flyouts": {
+              "playerID": [
+                "660761"
+              ],
+              "total": "4"
+            },
+            "Groundouts": {
+              "playerID": [
+                "656353"
+              ],
+              "total": "4"
+            },
+            "H": {
+              "playerID": [
+                "660761"
+              ],
+              "total": "10"
+            },
+            "Pitches": {
+              "playerID": [
+                "660761"
+              ],
+              "total": "80"
+            },
+            "R": {
+              "playerID": [
+                "660761"
+              ],
+              "total": "4"
+            },
+            "SO": {
+              "playerID": [
+                "656353"
+              ],
+              "total": "3"
+            },
+            "Strikes": {
+              "playerID": [
+                "660761"
+              ],
+              "total": "52"
+            }
+          },
+          "BaseRunning": {}
+        }
+      },
+      "gameID": "20230410_WAS@LAA",
+      "gameStatus": "Completed"
+    },
+    "20230410_SD@NYM": {
+      "away": "SD",
+      "home": "NYM",
+      "teamIDAway": "23",
+      "teamIDHome": "18",
+      "gameTime": "7:10p",
+      "gameTime_epoch": "1681168200.0",
+      "lineScore": {
+        "away": {
+          "H": "2",
+          "R": "0",
+          "team": "SD",
+          "scoresByInning": {
+            "1": "0",
+            "2": "0",
+            "3": "0",
+            "4": "0",
+            "5": "0",
+            "6": "0",
+            "7": "0",
+            "8": "0",
+            "9": "0"
+          },
+          "E": "0"
+        },
+        "home": {
+          "H": "7",
+          "R": "5",
+          "team": "NYM",
+          "scoresByInning": {
+            "1": "0",
+            "2": "0",
+            "3": "2",
+            "4": "0",
+            "5": "0",
+            "6": "0",
+            "7": "3",
+            "8": "0",
+            "9": "x"
+          },
+          "E": "1"
+        }
+      },
+      "currentInning": "Final",
+      "currentCount": "",
+      "currentOuts": "",
+      "awayResult": "L",
+      "homeResult": "W",
+      "topPerformers": {
+        "SD": {
+          "Hitting": {
+            "AB": {
+              "playerID": [
+                "630105",
+                "592518",
+                "572761"
+              ],
+              "total": "4"
+            },
+            "BB": {
+              "playerID": [
+                "665742"
+              ],
+              "total": "2"
+            },
+            "GIDP": {
+              "playerID": [
+                "593428"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "593428",
+                "673490"
+              ],
+              "total": "1"
+            },
+            "SO": {
+              "playerID": [
+                "572761"
+              ],
+              "total": "4"
+            },
+            "TB": {
+              "playerID": [
+                "593428",
+                "673490"
+              ],
+              "total": "1"
+            }
+          },
+          "Fielding": {},
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "506433"
+              ],
+              "total": "27"
+            },
+            "BB": {
+              "playerID": [
+                "506433"
+              ],
+              "total": "1"
+            },
+            "ER": {
+              "playerID": [
+                "506433"
+              ],
+              "total": "5"
+            },
+            "Flyouts": {
+              "playerID": [
+                "506433"
+              ],
+              "total": "5"
+            },
+            "Groundouts": {
+              "playerID": [
+                "506433"
+              ],
+              "total": "6"
+            },
+            "H": {
+              "playerID": [
+                "506433"
+              ],
+              "total": "6"
+            },
+            "Pitches": {
+              "playerID": [
+                "506433"
+              ],
+              "total": "104"
+            },
+            "R": {
+              "playerID": [
+                "506433"
+              ],
+              "total": "5"
+            },
+            "SO": {
+              "playerID": [
+                "506433"
+              ],
+              "total": "5"
+            },
+            "Strikes": {
+              "playerID": [
+                "506433"
+              ],
+              "total": "67"
+            }
+          },
+          "BaseRunning": {
+            "SB": {
+              "playerID": [
+                "593428"
+              ],
+              "total": "1"
+            }
+          }
+        },
+        "NYM": {
+          "Hitting": {
+            "2B": {
+              "playerID": [
+                "592192",
+                "596019",
+                "643446"
+              ],
+              "total": "1"
+            },
+            "AB": {
+              "playerID": [
+                "592192",
+                "624413",
+                "607043",
+                "643446"
+              ],
+              "total": "4"
+            },
+            "BB": {
+              "playerID": [
+                "596129"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "596129",
+                "592192",
+                "596019",
+                "607043",
+                "643446",
+                "621512",
+                "641645"
+              ],
+              "total": "1"
+            },
+            "HBP": {
+              "playerID": [
+                "596019"
+              ],
+              "total": "1"
+            },
+            "R": {
+              "playerID": [
+                "607043"
+              ],
+              "total": "2"
+            },
+            "RBI": {
+              "playerID": [
+                "596019",
+                "643446"
+              ],
+              "total": "2"
+            },
+            "SF": {
+              "playerID": [
+                "500871"
+              ],
+              "total": "1"
+            },
+            "SO": {
+              "playerID": [
+                "596019"
+              ],
+              "total": "2"
+            },
+            "TB": {
+              "playerID": [
+                "592192",
+                "596019",
+                "643446"
+              ],
+              "total": "2"
+            }
+          },
+          "Fielding": {
+            "E": {
+              "playerID": [
+                "621512"
+              ],
+              "total": "1"
+            }
+          },
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "453286"
+              ],
+              "total": "18"
+            },
+            "BB": {
+              "playerID": [
+                "453286"
+              ],
+              "total": "3"
+            },
+            "Flyouts": {
+              "playerID": [
+                "453286"
+              ],
+              "total": "2"
+            },
+            "Groundouts": {
+              "playerID": [
+                "453286",
+                "595928"
+              ],
+              "total": "2"
+            },
+            "H": {
+              "playerID": [
+                "493603",
+                "453286"
+              ],
+              "total": "1"
+            },
+            "Pitches": {
+              "playerID": [
+                "453286"
+              ],
+              "total": "97"
+            },
+            "SO": {
+              "playerID": [
+                "453286"
+              ],
+              "total": "6"
+            },
+            "Strikes": {
+              "playerID": [
+                "453286"
+              ],
+              "total": "61"
+            }
+          },
+          "BaseRunning": {
+            "SB": {
+              "playerID": [
+                "607043"
+              ],
+              "total": "1"
+            }
+          }
+        }
+      },
+      "gameID": "20230410_SD@NYM",
+      "gameStatus": "Completed"
+    },
+    "20230410_MIL@ARI": {
+      "away": "MIL",
+      "home": "ARI",
+      "teamIDAway": "16",
+      "teamIDHome": "1",
+      "gameTime": "6:41p",
+      "gameTime_epoch": "1681166460.0",
+      "lineScore": {
+        "away": {
+          "H": "3",
+          "R": "0",
+          "team": "MIL",
+          "scoresByInning": {
+            "1": "0",
+            "2": "0",
+            "3": "0",
+            "4": "0",
+            "5": "0",
+            "6": "0",
+            "7": "0",
+            "8": "0",
+            "9": "0"
+          },
+          "E": "1"
+        },
+        "home": {
+          "H": "8",
+          "R": "3",
+          "team": "ARI",
+          "scoresByInning": {
+            "1": "1",
+            "2": "0",
+            "3": "0",
+            "4": "0",
+            "5": "2",
+            "6": "0",
+            "7": "0",
+            "8": "0",
+            "9": "x"
+          },
+          "E": "0"
+        }
+      },
+      "currentInning": "Final",
+      "currentCount": "",
+      "currentOuts": "",
+      "awayResult": "L",
+      "homeResult": "W",
+      "topPerformers": {
+        "MIL": {
+          "Hitting": {
+            "AB": {
+              "playerID": [
+                "592885",
+                "642715"
+              ],
+              "total": "4"
+            },
+            "BB": {
+              "playerID": [
+                "669003"
+              ],
+              "total": "1"
+            },
+            "GIDP": {
+              "playerID": [
+                "572228"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "661388",
+                "669003",
+                "668930"
+              ],
+              "total": "1"
+            },
+            "SO": {
+              "playerID": [
+                "686894",
+                "592885"
+              ],
+              "total": "3"
+            },
+            "TB": {
+              "playerID": [
+                "661388",
+                "669003",
+                "668930"
+              ],
+              "total": "1"
+            }
+          },
+          "Fielding": {
+            "E": {
+              "playerID": [
+                "642715"
+              ],
+              "total": "1"
+            }
+          },
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "489119"
+              ],
+              "total": "23"
+            },
+            "BB": {
+              "playerID": [
+                "489119"
+              ],
+              "total": "3"
+            },
+            "ER": {
+              "playerID": [
+                "489119"
+              ],
+              "total": "3"
+            },
+            "Flyouts": {
+              "playerID": [
+                "489119"
+              ],
+              "total": "3"
+            },
+            "Groundouts": {
+              "playerID": [
+                "489119"
+              ],
+              "total": "8"
+            },
+            "H": {
+              "playerID": [
+                "489119"
+              ],
+              "total": "5"
+            },
+            "HR": {
+              "playerID": [
+                "489119"
+              ],
+              "total": "1"
+            },
+            "Pitches": {
+              "playerID": [
+                "489119"
+              ],
+              "total": "90"
+            },
+            "R": {
+              "playerID": [
+                "489119"
+              ],
+              "total": "3"
+            },
+            "SO": {
+              "playerID": [
+                "669060",
+                "489119"
+              ],
+              "total": "3"
+            },
+            "Strikes": {
+              "playerID": [
+                "489119"
+              ],
+              "total": "58"
+            }
+          },
+          "BaseRunning": {
+            "CS": {
+              "playerID": [
+                "668930"
+              ],
+              "total": "1"
+            }
+          }
+        },
+        "ARI": {
+          "Hitting": {
+            "2B": {
+              "playerID": [
+                "605113",
+                "606466"
+              ],
+              "total": "1"
+            },
+            "AB": {
+              "playerID": [
+                "572233",
+                "605113",
+                "666971",
+                "672515",
+                "664983"
+              ],
+              "total": "4"
+            },
+            "BB": {
+              "playerID": [
+                "668942",
+                "606466",
+                "446334"
+              ],
+              "total": "1"
+            },
+            "GIDP": {
+              "playerID": [
+                "572233"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "605113"
+              ],
+              "total": "3"
+            },
+            "HR": {
+              "playerID": [
+                "572233"
+              ],
+              "total": "1"
+            },
+            "R": {
+              "playerID": [
+                "606466"
+              ],
+              "total": "2"
+            },
+            "RBI": {
+              "playerID": [
+                "572233"
+              ],
+              "total": "2"
+            },
+            "SO": {
+              "playerID": [
+                "668942",
+                "664983"
+              ],
+              "total": "2"
+            },
+            "TB": {
+              "playerID": [
+                "572233",
+                "605113"
+              ],
+              "total": "4"
+            }
+          },
+          "Fielding": {},
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "668678"
+              ],
+              "total": "23"
+            },
+            "BB": {
+              "playerID": [
+                "668678"
+              ],
+              "total": "1"
+            },
+            "Flyouts": {
+              "playerID": [
+                "668678"
+              ],
+              "total": "2"
+            },
+            "Groundouts": {
+              "playerID": [
+                "668678"
+              ],
+              "total": "5"
+            },
+            "H": {
+              "playerID": [
+                "668678"
+              ],
+              "total": "3"
+            },
+            "Pitches": {
+              "playerID": [
+                "668678"
+              ],
+              "total": "96"
+            },
+            "SO": {
+              "playerID": [
+                "668678"
+              ],
+              "total": "11"
+            },
+            "Strikes": {
+              "playerID": [
+                "668678"
+              ],
+              "total": "62"
+            }
+          },
+          "BaseRunning": {}
+        }
+      },
+      "gameID": "20230410_MIL@ARI",
+      "gameStatus": "Completed"
+    },
+    "20230410_SEA@CHC": {
+      "away": "SEA",
+      "home": "CHC",
+      "teamIDAway": "25",
+      "teamIDHome": "5",
+      "gameTime": "6:39p",
+      "gameTime_epoch": "1681166340.0",
+      "lineScore": {
+        "away": {
+          "H": "6",
+          "R": "2",
+          "team": "SEA",
+          "scoresByInning": {
+            "1": "0",
+            "2": "0",
+            "3": "0",
+            "4": "1",
+            "5": "0",
+            "6": "0",
+            "7": "0",
+            "8": "0",
+            "9": "1",
+            "10": "0"
+          },
+          "E": "1"
+        },
+        "home": {
+          "H": "8",
+          "R": "3",
+          "team": "CHC",
+          "scoresByInning": {
+            "1": "0",
+            "2": "0",
+            "3": "0",
+            "4": "2",
+            "5": "0",
+            "6": "0",
+            "7": "0",
+            "8": "0",
+            "9": "0",
+            "10": "1"
+          },
+          "E": "0"
+        }
+      },
+      "currentInning": "Final/10",
+      "currentCount": "",
+      "currentOuts": "",
+      "awayResult": "L",
+      "homeResult": "W",
+      "topPerformers": {
+        "SEA": {
+          "Hitting": {
+            "2B": {
+              "playerID": [
+                "669450",
+                "664034"
+              ],
+              "total": "1"
+            },
+            "AB": {
+              "playerID": [
+                "664034"
+              ],
+              "total": "5"
+            },
+            "BB": {
+              "playerID": [
+                "669450",
+                "553993",
+                "677594"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "543939"
+              ],
+              "total": "2"
+            },
+            "HBP": {
+              "playerID": [
+                "677594"
+              ],
+              "total": "1"
+            },
+            "HR": {
+              "playerID": [
+                "672284"
+              ],
+              "total": "1"
+            },
+            "R": {
+              "playerID": [
+                "664034",
+                "672284"
+              ],
+              "total": "1"
+            },
+            "RBI": {
+              "playerID": [
+                "572041",
+                "672284"
+              ],
+              "total": "1"
+            },
+            "SF": {
+              "playerID": [
+                "572041"
+              ],
+              "total": "1"
+            },
+            "SO": {
+              "playerID": [
+                "664034",
+                "677594"
+              ],
+              "total": "2"
+            },
+            "TB": {
+              "playerID": [
+                "672284"
+              ],
+              "total": "4"
+            }
+          },
+          "Fielding": {
+            "E": {
+              "playerID": [
+                "608596"
+              ],
+              "total": "1"
+            }
+          },
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "622491"
+              ],
+              "total": "25"
+            },
+            "BB": {
+              "playerID": [
+                "622491"
+              ],
+              "total": "2"
+            },
+            "ER": {
+              "playerID": [
+                "622491"
+              ],
+              "total": "2"
+            },
+            "Flyouts": {
+              "playerID": [
+                "622491"
+              ],
+              "total": "4"
+            },
+            "Groundouts": {
+              "playerID": [
+                "622491"
+              ],
+              "total": "5"
+            },
+            "H": {
+              "playerID": [
+                "622491"
+              ],
+              "total": "6"
+            },
+            "Pitches": {
+              "playerID": [
+                "622491"
+              ],
+              "total": "93"
+            },
+            "R": {
+              "playerID": [
+                "622491"
+              ],
+              "total": "2"
+            },
+            "SO": {
+              "playerID": [
+                "622491"
+              ],
+              "total": "5"
+            },
+            "Strikes": {
+              "playerID": [
+                "622491"
+              ],
+              "total": "61"
+            }
+          },
+          "BaseRunning": {
+            "CS": {
+              "playerID": [
+                "543939"
+              ],
+              "total": "1"
+            }
+          }
+        },
+        "CHC": {
+          "Hitting": {
+            "2B": {
+              "playerID": [
+                "641355",
+                "670156"
+              ],
+              "total": "1"
+            },
+            "AB": {
+              "playerID": [
+                "663538"
+              ],
+              "total": "5"
+            },
+            "BB": {
+              "playerID": [
+                "664023",
+                "543333"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "663538"
+              ],
+              "total": "3"
+            },
+            "R": {
+              "playerID": [
+                "664023",
+                "641355",
+                "663611"
+              ],
+              "total": "1"
+            },
+            "RBI": {
+              "playerID": [
+                "641355",
+                "663538",
+                "543333"
+              ],
+              "total": "1"
+            },
+            "SO": {
+              "playerID": [
+                "621020"
+              ],
+              "total": "2"
+            },
+            "TB": {
+              "playerID": [
+                "663538"
+              ],
+              "total": "3"
+            }
+          },
+          "Fielding": {},
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "592767"
+              ],
+              "total": "18"
+            },
+            "BB": {
+              "playerID": [
+                "624522"
+              ],
+              "total": "2"
+            },
+            "ER": {
+              "playerID": [
+                "592767",
+                "605242"
+              ],
+              "total": "1"
+            },
+            "Flyouts": {
+              "playerID": [
+                "592767"
+              ],
+              "total": "3"
+            },
+            "Groundouts": {
+              "playerID": [
+                "592767",
+                "640470",
+                "502202"
+              ],
+              "total": "2"
+            },
+            "H": {
+              "playerID": [
+                "592767",
+                "605242"
+              ],
+              "total": "2"
+            },
+            "HR": {
+              "playerID": [
+                "605242"
+              ],
+              "total": "1"
+            },
+            "Pitches": {
+              "playerID": [
+                "592767"
+              ],
+              "total": "76"
+            },
+            "R": {
+              "playerID": [
+                "592767",
+                "605242"
+              ],
+              "total": "1"
+            },
+            "SO": {
+              "playerID": [
+                "592767"
+              ],
+              "total": "7"
+            },
+            "Strikes": {
+              "playerID": [
+                "592767"
+              ],
+              "total": "45"
+            }
+          },
+          "BaseRunning": {
+            "SB": {
+              "playerID": [
+                "664023",
+                "663538",
+                "663611"
+              ],
+              "total": "1"
+            }
+          }
+        }
+      },
+      "gameID": "20230410_SEA@CHC",
+      "gameStatus": "Completed"
+    },
+    "20230410_CHW@MIN": {
+      "away": "CHW",
+      "home": "MIN",
+      "teamIDAway": "6",
+      "teamIDHome": "17",
+      "gameTime": "1:12p",
+      "gameTime_epoch": "1681146720.0",
+      "lineScore": {
+        "away": {
+          "H": "8",
+          "R": "4",
+          "team": "CHW",
+          "scoresByInning": {
+            "1": "0",
+            "2": "0",
+            "3": "0",
+            "4": "4",
+            "5": "0",
+            "6": "0",
+            "7": "0",
+            "8": "0",
+            "9": "0"
+          },
+          "E": "3"
+        },
+        "home": {
+          "H": "4",
+          "R": "3",
+          "team": "MIN",
+          "scoresByInning": {
+            "1": "0",
+            "2": "0",
+            "3": "1",
+            "4": "1",
+            "5": "1",
+            "6": "0",
+            "7": "0",
+            "8": "0",
+            "9": "0"
+          },
+          "E": "0"
+        }
+      },
+      "currentInning": "Final",
+      "currentCount": "",
+      "currentOuts": "",
+      "awayResult": "W",
+      "homeResult": "L",
+      "topPerformers": {
+        "CHW": {
+          "Hitting": {
+            "2B": {
+              "playerID": [
+                "518735",
+                "683734"
+              ],
+              "total": "1"
+            },
+            "AB": {
+              "playerID": [
+                "518735",
+                "673357",
+                "462101",
+                "683734",
+                "643217",
+                "593643"
+              ],
+              "total": "4"
+            },
+            "BB": {
+              "playerID": [
+                "693049",
+                "669394"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "518735"
+              ],
+              "total": "2"
+            },
+            "HR": {
+              "playerID": [
+                "593643"
+              ],
+              "total": "1"
+            },
+            "R": {
+              "playerID": [
+                "518735",
+                "643217",
+                "593643",
+                "657757"
+              ],
+              "total": "1"
+            },
+            "RBI": {
+              "playerID": [
+                "593643"
+              ],
+              "total": "3"
+            },
+            "SO": {
+              "playerID": [
+                "663853"
+              ],
+              "total": "2"
+            },
+            "TB": {
+              "playerID": [
+                "593643"
+              ],
+              "total": "4"
+            }
+          },
+          "Fielding": {
+            "E": {
+              "playerID": [
+                "462101",
+                "593643",
+                "657757"
+              ],
+              "total": "1"
+            }
+          },
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "656302"
+              ],
+              "total": "25"
+            },
+            "BB": {
+              "playerID": [
+                "656302"
+              ],
+              "total": "2"
+            },
+            "ER": {
+              "playerID": [
+                "656302"
+              ],
+              "total": "1"
+            },
+            "Flyouts": {
+              "playerID": [
+                "656302"
+              ],
+              "total": "2"
+            },
+            "Groundouts": {
+              "playerID": [
+                "656302"
+              ],
+              "total": "9"
+            },
+            "H": {
+              "playerID": [
+                "656302"
+              ],
+              "total": "3"
+            },
+            "Pitches": {
+              "playerID": [
+                "656302"
+              ],
+              "total": "98"
+            },
+            "R": {
+              "playerID": [
+                "656302"
+              ],
+              "total": "3"
+            },
+            "SO": {
+              "playerID": [
+                "656302"
+              ],
+              "total": "6"
+            },
+            "Strikes": {
+              "playerID": [
+                "656302"
+              ],
+              "total": "62"
+            }
+          },
+          "BaseRunning": {}
+        },
+        "MIN": {
+          "Hitting": {
+            "AB": {
+              "playerID": [
+                "669304",
+                "663616"
+              ],
+              "total": "5"
+            },
+            "BB": {
+              "playerID": [
+                "543877",
+                "670242"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "543877",
+                "669304",
+                "456781",
+                "663616"
+              ],
+              "total": "1"
+            },
+            "HBP": {
+              "playerID": [
+                "670242",
+                "650489",
+                "456781"
+              ],
+              "total": "1"
+            },
+            "R": {
+              "playerID": [
+                "670242",
+                "572191",
+                "624503"
+              ],
+              "total": "1"
+            },
+            "RBI": {
+              "playerID": [
+                "663616"
+              ],
+              "total": "1"
+            },
+            "SO": {
+              "playerID": [
+                "571657",
+                "663616"
+              ],
+              "total": "3"
+            },
+            "TB": {
+              "playerID": [
+                "543877",
+                "669304",
+                "456781",
+                "663616"
+              ],
+              "total": "1"
+            }
+          },
+          "Fielding": {},
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "628317"
+              ],
+              "total": "26"
+            },
+            "BB": {
+              "playerID": [
+                "663558"
+              ],
+              "total": "2"
+            },
+            "ER": {
+              "playerID": [
+                "628317"
+              ],
+              "total": "4"
+            },
+            "Flyouts": {
+              "playerID": [
+                "628317"
+              ],
+              "total": "7"
+            },
+            "Groundouts": {
+              "playerID": [
+                "628317"
+              ],
+              "total": "5"
+            },
+            "H": {
+              "playerID": [
+                "628317"
+              ],
+              "total": "8"
+            },
+            "HR": {
+              "playerID": [
+                "628317"
+              ],
+              "total": "1"
+            },
+            "Pitches": {
+              "playerID": [
+                "628317"
+              ],
+              "total": "83"
+            },
+            "R": {
+              "playerID": [
+                "628317"
+              ],
+              "total": "4"
+            },
+            "SO": {
+              "playerID": [
+                "628317"
+              ],
+              "total": "3"
+            },
+            "Strikes": {
+              "playerID": [
+                "628317"
+              ],
+              "total": "55"
+            }
+          },
+          "BaseRunning": {}
+        }
+      },
+      "gameID": "20230410_CHW@MIN",
+      "gameStatus": "Completed"
+    },
+    "20230410_OAK@BAL": {
+      "away": "OAK",
+      "home": "BAL",
+      "teamIDAway": "20",
+      "teamIDHome": "3",
+      "gameTime": "6:36p",
+      "gameTime_epoch": "1681166160.0",
+      "lineScore": {
+        "away": {
+          "H": "8",
+          "R": "1",
+          "team": "OAK",
+          "scoresByInning": {
+            "1": "1",
+            "2": "0",
+            "3": "0",
+            "4": "0",
+            "5": "0",
+            "6": "0",
+            "7": "0",
+            "8": "0",
+            "9": "0"
+          },
+          "E": "1"
+        },
+        "home": {
+          "H": "6",
+          "R": "5",
+          "team": "BAL",
+          "scoresByInning": {
+            "1": "2",
+            "2": "0",
+            "3": "1",
+            "4": "0",
+            "5": "0",
+            "6": "1",
+            "7": "0",
+            "8": "1",
+            "9": "x"
+          },
+          "E": "0"
+        }
+      },
+      "currentInning": "Final",
+      "currentCount": "",
+      "currentOuts": "",
+      "awayResult": "L",
+      "homeResult": "W",
+      "topPerformers": {
+        "OAK": {
+          "Hitting": {
+            "2B": {
+              "playerID": [
+                "668843",
+                "607054"
+              ],
+              "total": "1"
+            },
+            "3B": {
+              "playerID": [
+                "657656"
+              ],
+              "total": "1"
+            },
+            "AB": {
+              "playerID": [
+                "675656",
+                "668843",
+                "607054",
+                "657656",
+                "643393",
+                "669127"
+              ],
+              "total": "4"
+            },
+            "BB": {
+              "playerID": [
+                "676116"
+              ],
+              "total": "2"
+            },
+            "GIDP": {
+              "playerID": [
+                "649557",
+                "643393"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "607054"
+              ],
+              "total": "2"
+            },
+            "R": {
+              "playerID": [
+                "649557"
+              ],
+              "total": "1"
+            },
+            "RBI": {
+              "playerID": [
+                "657656"
+              ],
+              "total": "1"
+            },
+            "SO": {
+              "playerID": [
+                "675656",
+                "668843"
+              ],
+              "total": "3"
+            },
+            "TB": {
+              "playerID": [
+                "607054",
+                "657656"
+              ],
+              "total": "3"
+            }
+          },
+          "Fielding": {
+            "E": {
+              "playerID": [
+                "669127"
+              ],
+              "total": "1"
+            }
+          },
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "676664"
+              ],
+              "total": "20"
+            },
+            "BB": {
+              "playerID": [
+                "544727",
+                "594580",
+                "676664"
+              ],
+              "total": "1"
+            },
+            "ER": {
+              "playerID": [
+                "676664"
+              ],
+              "total": "3"
+            },
+            "Flyouts": {
+              "playerID": [
+                "676664"
+              ],
+              "total": "5"
+            },
+            "Groundouts": {
+              "playerID": [
+                "676664"
+              ],
+              "total": "3"
+            },
+            "H": {
+              "playerID": [
+                "676664"
+              ],
+              "total": "3"
+            },
+            "HR": {
+              "playerID": [
+                "676664"
+              ],
+              "total": "2"
+            },
+            "Pitches": {
+              "playerID": [
+                "676664"
+              ],
+              "total": "90"
+            },
+            "R": {
+              "playerID": [
+                "676664"
+              ],
+              "total": "3"
+            },
+            "SO": {
+              "playerID": [
+                "676664"
+              ],
+              "total": "4"
+            },
+            "Strikes": {
+              "playerID": [
+                "676664"
+              ],
+              "total": "55"
+            }
+          },
+          "BaseRunning": {
+            "PO": {
+              "playerID": [
+                "676116"
+              ],
+              "total": "1"
+            }
+          }
+        },
+        "BAL": {
+          "Hitting": {
+            "2B": {
+              "playerID": [
+                "669720"
+              ],
+              "total": "1"
+            },
+            "AB": {
+              "playerID": [
+                "623993",
+                "663624",
+                "668939",
+                "669720"
+              ],
+              "total": "4"
+            },
+            "BB": {
+              "playerID": [
+                "602104",
+                "656775",
+                "624428"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "669720"
+              ],
+              "total": "2"
+            },
+            "HBP": {
+              "playerID": [
+                "602104"
+              ],
+              "total": "1"
+            },
+            "HR": {
+              "playerID": [
+                "663624",
+                "668939",
+                "669720"
+              ],
+              "total": "1"
+            },
+            "R": {
+              "playerID": [
+                "669720"
+              ],
+              "total": "2"
+            },
+            "RBI": {
+              "playerID": [
+                "663624"
+              ],
+              "total": "2"
+            },
+            "SO": {
+              "playerID": [
+                "668939",
+                "663630"
+              ],
+              "total": "2"
+            },
+            "TB": {
+              "playerID": [
+                "669720"
+              ],
+              "total": "6"
+            }
+          },
+          "Fielding": {
+            "Pickoffs": {
+              "playerID": [
+                "502043"
+              ],
+              "total": "1"
+            }
+          },
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "502043"
+              ],
+              "total": "24"
+            },
+            "BB": {
+              "playerID": [
+                "502043"
+              ],
+              "total": "3"
+            },
+            "ER": {
+              "playerID": [
+                "502043"
+              ],
+              "total": "1"
+            },
+            "Flyouts": {
+              "playerID": [
+                "502043"
+              ],
+              "total": "3"
+            },
+            "Groundouts": {
+              "playerID": [
+                "502043"
+              ],
+              "total": "5"
+            },
+            "H": {
+              "playerID": [
+                "502043"
+              ],
+              "total": "5"
+            },
+            "Pitches": {
+              "playerID": [
+                "502043"
+              ],
+              "total": "92"
+            },
+            "R": {
+              "playerID": [
+                "502043"
+              ],
+              "total": "1"
+            },
+            "SO": {
+              "playerID": [
+                "502043"
+              ],
+              "total": "4"
+            },
+            "Strikes": {
+              "playerID": [
+                "502043"
+              ],
+              "total": "57"
+            }
+          },
+          "BaseRunning": {
+            "SB": {
+              "playerID": [
+                "656775"
+              ],
+              "total": "1"
+            }
+          }
+        }
+      },
+      "gameID": "20230410_OAK@BAL",
+      "gameStatus": "Completed"
+    },
+    "20230410_HOU@PIT": {
+      "away": "HOU",
+      "home": "PIT",
+      "teamIDAway": "11",
+      "teamIDHome": "22",
+      "gameTime": "6:40p",
+      "gameTime_epoch": "1681166400.0",
+      "lineScore": {
+        "away": {
+          "H": "13",
+          "R": "8",
+          "team": "HOU",
+          "scoresByInning": {
+            "1": "1",
+            "2": "3",
+            "3": "1",
+            "4": "2",
+            "5": "0",
+            "6": "0",
+            "7": "1",
+            "8": "0",
+            "9": "0"
+          },
+          "E": "0"
+        },
+        "home": {
+          "H": "3",
+          "R": "2",
+          "team": "PIT",
+          "scoresByInning": {
+            "1": "0",
+            "2": "1",
+            "3": "0",
+            "4": "1",
+            "5": "0",
+            "6": "0",
+            "7": "0",
+            "8": "0",
+            "9": "0"
+          },
+          "E": "1"
+        }
+      },
+      "currentInning": "Final",
+      "currentCount": "",
+      "currentOuts": "",
+      "awayResult": "W",
+      "homeResult": "L",
+      "topPerformers": {
+        "HOU": {
+          "Hitting": {
+            "2B": {
+              "playerID": [
+                "670541",
+                "676801",
+                "665161"
+              ],
+              "total": "1"
+            },
+            "AB": {
+              "playerID": [
+                "667452",
+                "643289",
+                "665161"
+              ],
+              "total": "5"
+            },
+            "BB": {
+              "playerID": [
+                "608324"
+              ],
+              "total": "3"
+            },
+            "H": {
+              "playerID": [
+                "670541",
+                "643289"
+              ],
+              "total": "3"
+            },
+            "HBP": {
+              "playerID": [
+                "670541"
+              ],
+              "total": "1"
+            },
+            "IBB": {
+              "playerID": [
+                "547989"
+              ],
+              "total": "1"
+            },
+            "R": {
+              "playerID": [
+                "608324"
+              ],
+              "total": "2"
+            },
+            "RBI": {
+              "playerID": [
+                "663656"
+              ],
+              "total": "3"
+            },
+            "SAC": {
+              "playerID": [
+                "676801"
+              ],
+              "total": "1"
+            },
+            "SO": {
+              "playerID": [
+                "676801",
+                "455117"
+              ],
+              "total": "2"
+            },
+            "TB": {
+              "playerID": [
+                "670541"
+              ],
+              "total": "4"
+            }
+          },
+          "Fielding": {},
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "664285"
+              ],
+              "total": "27"
+            },
+            "BB": {
+              "playerID": [
+                "664285"
+              ],
+              "total": "5"
+            },
+            "ER": {
+              "playerID": [
+                "664285"
+              ],
+              "total": "2"
+            },
+            "Flyouts": {
+              "playerID": [
+                "664285",
+                "661527"
+              ],
+              "total": "1"
+            },
+            "Groundouts": {
+              "playerID": [
+                "664285"
+              ],
+              "total": "11"
+            },
+            "H": {
+              "playerID": [
+                "664285"
+              ],
+              "total": "3"
+            },
+            "HR": {
+              "playerID": [
+                "664285"
+              ],
+              "total": "1"
+            },
+            "Pitches": {
+              "playerID": [
+                "664285"
+              ],
+              "total": "107"
+            },
+            "R": {
+              "playerID": [
+                "664285"
+              ],
+              "total": "2"
+            },
+            "SO": {
+              "playerID": [
+                "664285"
+              ],
+              "total": "5"
+            },
+            "Strikes": {
+              "playerID": [
+                "664285"
+              ],
+              "total": "64"
+            }
+          },
+          "BaseRunning": {}
+        },
+        "PIT": {
+          "Hitting": {
+            "2B": {
+              "playerID": [
+                "467793"
+              ],
+              "total": "1"
+            },
+            "AB": {
+              "playerID": [
+                "596847",
+                "663647",
+                "467793",
+                "668804"
+              ],
+              "total": "4"
+            },
+            "BB": {
+              "playerID": [
+                "656582"
+              ],
+              "total": "2"
+            },
+            "GIDP": {
+              "playerID": [
+                "596847",
+                "641511"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "596847",
+                "467793",
+                "666801"
+              ],
+              "total": "1"
+            },
+            "HBP": {
+              "playerID": [
+                "666801"
+              ],
+              "total": "1"
+            },
+            "HR": {
+              "playerID": [
+                "596847"
+              ],
+              "total": "1"
+            },
+            "R": {
+              "playerID": [
+                "596847",
+                "467793"
+              ],
+              "total": "1"
+            },
+            "RBI": {
+              "playerID": [
+                "596847",
+                "666801"
+              ],
+              "total": "1"
+            },
+            "SO": {
+              "playerID": [
+                "596847"
+              ],
+              "total": "2"
+            },
+            "TB": {
+              "playerID": [
+                "596847"
+              ],
+              "total": "4"
+            }
+          },
+          "Fielding": {
+            "E": {
+              "playerID": [
+                "666801"
+              ],
+              "total": "1"
+            }
+          },
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "672710"
+              ],
+              "total": "23"
+            },
+            "BB": {
+              "playerID": [
+                "672710"
+              ],
+              "total": "4"
+            },
+            "ER": {
+              "playerID": [
+                "672710"
+              ],
+              "total": "7"
+            },
+            "Flyouts": {
+              "playerID": [
+                "672710"
+              ],
+              "total": "2"
+            },
+            "Groundouts": {
+              "playerID": [
+                "640444"
+              ],
+              "total": "4"
+            },
+            "H": {
+              "playerID": [
+                "672710"
+              ],
+              "total": "9"
+            },
+            "Pitches": {
+              "playerID": [
+                "672710"
+              ],
+              "total": "83"
+            },
+            "R": {
+              "playerID": [
+                "672710"
+              ],
+              "total": "7"
+            },
+            "SO": {
+              "playerID": [
+                "640444",
+                "672710"
+              ],
+              "total": "3"
+            },
+            "Strikes": {
+              "playerID": [
+                "672710"
+              ],
+              "total": "44"
+            }
+          },
+          "BaseRunning": {}
+        }
+      },
+      "gameID": "20230410_HOU@PIT",
+      "gameStatus": "Completed"
+    },
+    "20230410_CIN@ATL": {
+      "away": "CIN",
+      "home": "ATL",
+      "teamIDAway": "7",
+      "teamIDHome": "2",
+      "gameTime": "7:20p",
+      "gameTime_epoch": "1681168800.0",
+      "lineScore": {
+        "away": {
+          "H": "12",
+          "R": "4",
+          "team": "CIN",
+          "scoresByInning": {
+            "1": "0",
+            "2": "0",
+            "3": "0",
+            "4": "0",
+            "5": "0",
+            "6": "0",
+            "7": "0",
+            "8": "1",
+            "9": "2",
+            "10": "1"
+          },
+          "E": "0"
+        },
+        "home": {
+          "H": "10",
+          "R": "5",
+          "team": "ATL",
+          "scoresByInning": {
+            "1": "0",
+            "2": "0",
+            "3": "0",
+            "4": "0",
+            "5": "0",
+            "6": "1",
+            "7": "1",
+            "8": "1",
+            "9": "0",
+            "10": "2"
+          },
+          "E": "0"
+        }
+      },
+      "currentInning": "Final/10",
+      "currentCount": "",
+      "currentOuts": "",
+      "awayResult": "L",
+      "homeResult": "W",
+      "topPerformers": {
+        "CIN": {
+          "Hitting": {
+            "2B": {
+              "playerID": [
+                "668715",
+                "663697"
+              ],
+              "total": "1"
+            },
+            "3B": {
+              "playerID": [
+                "656413"
+              ],
+              "total": "1"
+            },
+            "AB": {
+              "playerID": [
+                "641584",
+                "663886",
+                "663697"
+              ],
+              "total": "5"
+            },
+            "BB": {
+              "playerID": [
+                "670770"
+              ],
+              "total": "1"
+            },
+            "GIDP": {
+              "playerID": [
+                "641584",
+                "621028",
+                "663697"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "663697"
+              ],
+              "total": "3"
+            },
+            "R": {
+              "playerID": [
+                "571976",
+                "676480",
+                "656413",
+                "663697"
+              ],
+              "total": "1"
+            },
+            "RBI": {
+              "playerID": [
+                "641584",
+                "668715",
+                "656413",
+                "663697"
+              ],
+              "total": "1"
+            },
+            "SAC": {
+              "playerID": [
+                "670770"
+              ],
+              "total": "1"
+            },
+            "SO": {
+              "playerID": [
+                "663886"
+              ],
+              "total": "2"
+            },
+            "TB": {
+              "playerID": [
+                "663697"
+              ],
+              "total": "4"
+            }
+          },
+          "Fielding": {},
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "668933"
+              ],
+              "total": "25"
+            },
+            "BB": {
+              "playerID": [
+                "668933"
+              ],
+              "total": "3"
+            },
+            "ER": {
+              "playerID": [
+                "668933"
+              ],
+              "total": "2"
+            },
+            "Flyouts": {
+              "playerID": [
+                "668933"
+              ],
+              "total": "2"
+            },
+            "Groundouts": {
+              "playerID": [
+                "668933"
+              ],
+              "total": "5"
+            },
+            "H": {
+              "playerID": [
+                "668933"
+              ],
+              "total": "6"
+            },
+            "HR": {
+              "playerID": [
+                "571882"
+              ],
+              "total": "1"
+            },
+            "Pitches": {
+              "playerID": [
+                "668933"
+              ],
+              "total": "97"
+            },
+            "R": {
+              "playerID": [
+                "571882",
+                "668933"
+              ],
+              "total": "2"
+            },
+            "SO": {
+              "playerID": [
+                "668933"
+              ],
+              "total": "7"
+            },
+            "Strikes": {
+              "playerID": [
+                "668933"
+              ],
+              "total": "63"
+            }
+          },
+          "BaseRunning": {}
+        },
+        "ATL": {
+          "Hitting": {
+            "2B": {
+              "playerID": [
+                "669221"
+              ],
+              "total": "2"
+            },
+            "AB": {
+              "playerID": [
+                "663586",
+                "669221",
+                "660670"
+              ],
+              "total": "5"
+            },
+            "BB": {
+              "playerID": [
+                "621566"
+              ],
+              "total": "3"
+            },
+            "GIDP": {
+              "playerID": [
+                "663586",
+                "621566"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "669221",
+                "660670"
+              ],
+              "total": "3"
+            },
+            "HR": {
+              "playerID": [
+                "669221"
+              ],
+              "total": "1"
+            },
+            "R": {
+              "playerID": [
+                "663586"
+              ],
+              "total": "2"
+            },
+            "RBI": {
+              "playerID": [
+                "669221"
+              ],
+              "total": "3"
+            },
+            "SO": {
+              "playerID": [
+                "663586",
+                "645277",
+                "669221",
+                "642201"
+              ],
+              "total": "2"
+            },
+            "TB": {
+              "playerID": [
+                "669221"
+              ],
+              "total": "8"
+            }
+          },
+          "Fielding": {},
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "693821"
+              ],
+              "total": "24"
+            },
+            "BB": {
+              "playerID": [
+                "693821"
+              ],
+              "total": "1"
+            },
+            "ER": {
+              "playerID": [
+                "621345"
+              ],
+              "total": "2"
+            },
+            "Flyouts": {
+              "playerID": [
+                "693821"
+              ],
+              "total": "2"
+            },
+            "Groundouts": {
+              "playerID": [
+                "693821"
+              ],
+              "total": "6"
+            },
+            "H": {
+              "playerID": [
+                "693821"
+              ],
+              "total": "6"
+            },
+            "Pitches": {
+              "playerID": [
+                "693821"
+              ],
+              "total": "103"
+            },
+            "R": {
+              "playerID": [
+                "621345"
+              ],
+              "total": "2"
+            },
+            "SO": {
+              "playerID": [
+                "693821"
+              ],
+              "total": "7"
+            },
+            "Strikes": {
+              "playerID": [
+                "693821"
+              ],
+              "total": "70"
+            }
+          },
+          "BaseRunning": {}
+        }
+      },
+      "gameID": "20230410_CIN@ATL",
+      "gameStatus": "Completed"
+    },
+    "20230410_BOS@TB": {
+      "away": "BOS",
+      "home": "TB",
+      "teamIDAway": "4",
+      "teamIDHome": "27",
+      "gameTime": "6:40p",
+      "gameTime_epoch": "1681166400.0",
+      "lineScore": {
+        "away": {
+          "H": "3",
+          "R": "0",
+          "team": "BOS",
+          "scoresByInning": {
+            "1": "0",
+            "2": "0",
+            "3": "0",
+            "4": "0",
+            "5": "0",
+            "6": "0",
+            "7": "0",
+            "8": "0",
+            "9": "0"
+          },
+          "E": "0"
+        },
+        "home": {
+          "H": "5",
+          "R": "1",
+          "team": "TB",
+          "scoresByInning": {
+            "1": "0",
+            "2": "0",
+            "3": "0",
+            "4": "0",
+            "5": "0",
+            "6": "0",
+            "7": "0",
+            "8": "1",
+            "9": "x"
+          },
+          "E": "0"
+        }
+      },
+      "currentInning": "Final",
+      "currentCount": "",
+      "currentOuts": "",
+      "awayResult": "L",
+      "homeResult": "W",
+      "topPerformers": {
+        "BOS": {
+          "Hitting": {
+            "AB": {
+              "playerID": [
+                "457759",
+                "646240",
+                "807799"
+              ],
+              "total": "4"
+            },
+            "BB": {
+              "playerID": [
+                "657077",
+                "571771"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "666915",
+                "624414",
+                "807799"
+              ],
+              "total": "1"
+            },
+            "SO": {
+              "playerID": [
+                "646240"
+              ],
+              "total": "3"
+            },
+            "TB": {
+              "playerID": [
+                "666915",
+                "624414",
+                "807799"
+              ],
+              "total": "1"
+            }
+          },
+          "Fielding": {},
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "601713"
+              ],
+              "total": "20"
+            },
+            "BB": {
+              "playerID": [
+                "601713"
+              ],
+              "total": "2"
+            },
+            "ER": {
+              "playerID": [
+                "455119"
+              ],
+              "total": "1"
+            },
+            "Flyouts": {
+              "playerID": [
+                "601713"
+              ],
+              "total": "4"
+            },
+            "Groundouts": {
+              "playerID": [
+                "670174"
+              ],
+              "total": "4"
+            },
+            "H": {
+              "playerID": [
+                "601713"
+              ],
+              "total": "3"
+            },
+            "HR": {
+              "playerID": [
+                "455119"
+              ],
+              "total": "1"
+            },
+            "Pitches": {
+              "playerID": [
+                "601713"
+              ],
+              "total": "83"
+            },
+            "R": {
+              "playerID": [
+                "455119"
+              ],
+              "total": "1"
+            },
+            "SO": {
+              "playerID": [
+                "601713"
+              ],
+              "total": "6"
+            },
+            "Strikes": {
+              "playerID": [
+                "601713"
+              ],
+              "total": "53"
+            }
+          },
+          "BaseRunning": {}
+        },
+        "TB": {
+          "Hitting": {
+            "2B": {
+              "playerID": [
+                "670042"
+              ],
+              "total": "1"
+            },
+            "AB": {
+              "playerID": [
+                "668227",
+                "677551"
+              ],
+              "total": "4"
+            },
+            "BB": {
+              "playerID": [
+                "664040",
+                "650490"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "668227",
+                "670623",
+                "664040",
+                "670042",
+                "650490"
+              ],
+              "total": "1"
+            },
+            "HR": {
+              "playerID": [
+                "664040"
+              ],
+              "total": "1"
+            },
+            "R": {
+              "playerID": [
+                "664040"
+              ],
+              "total": "1"
+            },
+            "RBI": {
+              "playerID": [
+                "664040"
+              ],
+              "total": "1"
+            },
+            "SO": {
+              "playerID": [
+                "670042"
+              ],
+              "total": "2"
+            },
+            "TB": {
+              "playerID": [
+                "664040"
+              ],
+              "total": "4"
+            }
+          },
+          "Fielding": {},
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "676596"
+              ],
+              "total": "13"
+            },
+            "BB": {
+              "playerID": [
+                "621363"
+              ],
+              "total": "2"
+            },
+            "Flyouts": {
+              "playerID": [
+                "656222"
+              ],
+              "total": "3"
+            },
+            "Groundouts": {
+              "playerID": [
+                "676596"
+              ],
+              "total": "4"
+            },
+            "H": {
+              "playerID": [
+                "656222",
+                "676596",
+                "621363"
+              ],
+              "total": "1"
+            },
+            "Pitches": {
+              "playerID": [
+                "676596"
+              ],
+              "total": "47"
+            },
+            "SO": {
+              "playerID": [
+                "676596"
+              ],
+              "total": "5"
+            },
+            "Strikes": {
+              "playerID": [
+                "676596"
+              ],
+              "total": "31"
+            }
+          },
+          "BaseRunning": {
+            "SB": {
+              "playerID": [
+                "668227"
+              ],
+              "total": "1"
+            }
+          }
+        }
+      },
+      "gameID": "20230410_BOS@TB",
+      "gameStatus": "Completed"
+    },
+    "20230410_MIA@PHI": {
+      "away": "MIA",
+      "home": "PHI",
+      "teamIDAway": "15",
+      "teamIDHome": "21",
+      "gameTime": "6:42p",
+      "gameTime_epoch": "1681166520.0",
+      "lineScore": {
+        "away": {
+          "H": "9",
+          "R": "3",
+          "team": "MIA",
+          "scoresByInning": {
+            "1": "0",
+            "2": "0",
+            "3": "0",
+            "4": "0",
+            "5": "0",
+            "6": "0",
+            "7": "3",
+            "8": "0",
+            "9": "0"
+          },
+          "E": "0"
+        },
+        "home": {
+          "H": "20",
+          "R": "15",
+          "team": "PHI",
+          "scoresByInning": {
+            "1": "0",
+            "2": "0",
+            "3": "5",
+            "4": "0",
+            "5": "4",
+            "6": "4",
+            "7": "1",
+            "8": "1",
+            "9": "x"
+          },
+          "E": "0"
+        }
+      },
+      "currentInning": "Final",
+      "currentCount": "",
+      "currentOuts": "",
+      "awayResult": "L",
+      "homeResult": "W",
+      "topPerformers": {
+        "MIA": {
+          "Hitting": {
+            "AB": {
+              "playerID": [
+                "665862"
+              ],
+              "total": "5"
+            },
+            "BB": {
+              "playerID": [
+                "516416",
+                "650333",
+                "643265",
+                "607732"
+              ],
+              "total": "1"
+            },
+            "GIDP": {
+              "playerID": [
+                "624585"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "643265"
+              ],
+              "total": "3"
+            },
+            "HBP": {
+              "playerID": [
+                "624585"
+              ],
+              "total": "1"
+            },
+            "HR": {
+              "playerID": [
+                "493329"
+              ],
+              "total": "1"
+            },
+            "R": {
+              "playerID": [
+                "516416",
+                "493329",
+                "542932"
+              ],
+              "total": "1"
+            },
+            "RBI": {
+              "playerID": [
+                "643265",
+                "493329"
+              ],
+              "total": "1"
+            },
+            "SO": {
+              "playerID": [
+                "516416",
+                "643265",
+                "650559",
+                "607732",
+                "641658",
+                "542932",
+                "665862"
+              ],
+              "total": "1"
+            },
+            "TB": {
+              "playerID": [
+                "493329"
+              ],
+              "total": "5"
+            }
+          },
+          "Fielding": {
+            "Passed Ball": {
+              "playerID": [
+                "607732"
+              ],
+              "total": "1"
+            }
+          },
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "645261",
+                "656970"
+              ],
+              "total": "23"
+            },
+            "BB": {
+              "playerID": [
+                "645261",
+                "656970"
+              ],
+              "total": "1"
+            },
+            "ER": {
+              "playerID": [
+                "645261"
+              ],
+              "total": "9"
+            },
+            "Flyouts": {
+              "playerID": [
+                "645261",
+                "656970"
+              ],
+              "total": "3"
+            },
+            "Groundouts": {
+              "playerID": [
+                "656970"
+              ],
+              "total": "5"
+            },
+            "H": {
+              "playerID": [
+                "645261",
+                "656970"
+              ],
+              "total": "10"
+            },
+            "HR": {
+              "playerID": [
+                "656970"
+              ],
+              "total": "2"
+            },
+            "Pitches": {
+              "playerID": [
+                "645261"
+              ],
+              "total": "77"
+            },
+            "R": {
+              "playerID": [
+                "645261"
+              ],
+              "total": "9"
+            },
+            "SO": {
+              "playerID": [
+                "645261"
+              ],
+              "total": "4"
+            },
+            "Strikes": {
+              "playerID": [
+                "645261"
+              ],
+              "total": "50"
+            }
+          },
+          "BaseRunning": {}
+        },
+        "PHI": {
+          "Hitting": {
+            "2B": {
+              "playerID": [
+                "669016"
+              ],
+              "total": "2"
+            },
+            "AB": {
+              "playerID": [
+                "681082"
+              ],
+              "total": "6"
+            },
+            "BB": {
+              "playerID": [
+                "656941",
+                "596117"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "592206",
+                "669016",
+                "664761",
+                "607208"
+              ],
+              "total": "3"
+            },
+            "HR": {
+              "playerID": [
+                "669016",
+                "664761",
+                "595909"
+              ],
+              "total": "1"
+            },
+            "R": {
+              "playerID": [
+                "592206",
+                "656941",
+                "607208"
+              ],
+              "total": "3"
+            },
+            "RBI": {
+              "playerID": [
+                "664761"
+              ],
+              "total": "6"
+            },
+            "SO": {
+              "playerID": [
+                "592206",
+                "664761",
+                "681082",
+                "656941",
+                "596117",
+                "665019"
+              ],
+              "total": "1"
+            },
+            "TB": {
+              "playerID": [
+                "669016"
+              ],
+              "total": "8"
+            }
+          },
+          "Fielding": {},
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "621381"
+              ],
+              "total": "20"
+            },
+            "BB": {
+              "playerID": [
+                "686842"
+              ],
+              "total": "3"
+            },
+            "ER": {
+              "playerID": [
+                "686842"
+              ],
+              "total": "3"
+            },
+            "Flyouts": {
+              "playerID": [
+                "621381"
+              ],
+              "total": "4"
+            },
+            "Groundouts": {
+              "playerID": [
+                "607755"
+              ],
+              "total": "4"
+            },
+            "H": {
+              "playerID": [
+                "607755",
+                "621381"
+              ],
+              "total": "4"
+            },
+            "HR": {
+              "playerID": [
+                "686842"
+              ],
+              "total": "1"
+            },
+            "Pitches": {
+              "playerID": [
+                "621381"
+              ],
+              "total": "59"
+            },
+            "R": {
+              "playerID": [
+                "686842"
+              ],
+              "total": "3"
+            },
+            "SO": {
+              "playerID": [
+                "621381"
+              ],
+              "total": "6"
+            },
+            "Strikes": {
+              "playerID": [
+                "621381"
+              ],
+              "total": "42"
+            }
+          },
+          "BaseRunning": {
+            "SB": {
+              "playerID": [
+                "681082",
+                "607208"
+              ],
+              "total": "1"
+            }
+          }
+        }
+      },
+      "gameID": "20230410_MIA@PHI",
+      "gameStatus": "Completed"
+    },
+    "20230410_KC@TEX": {
+      "away": "KC",
+      "home": "TEX",
+      "teamIDAway": "12",
+      "teamIDHome": "28",
+      "gameTime": "7:07p",
+      "gameTime_epoch": "1681168020.0",
+      "lineScore": {
+        "away": {
+          "H": "4",
+          "R": "2",
+          "team": "KC",
+          "scoresByInning": {
+            "1": "1",
+            "2": "0",
+            "3": "0",
+            "4": "0",
+            "5": "0",
+            "6": "0",
+            "7": "1",
+            "8": "0",
+            "9": "0"
+          },
+          "E": "1"
+        },
+        "home": {
+          "H": "11",
+          "R": "11",
+          "team": "TEX",
+          "scoresByInning": {
+            "1": "1",
+            "2": "0",
+            "3": "2",
+            "4": "1",
+            "5": "0",
+            "6": "7",
+            "7": "0",
+            "8": "0",
+            "9": "x"
+          },
+          "E": "1"
+        }
+      },
+      "currentInning": "Final",
+      "currentCount": "",
+      "currentOuts": "",
+      "awayResult": "L",
+      "homeResult": "W",
+      "topPerformers": {
+        "KC": {
+          "Hitting": {
+            "AB": {
+              "playerID": [
+                "521692",
+                "658668",
+                "641531",
+                "670032"
+              ],
+              "total": "4"
+            },
+            "BB": {
+              "playerID": [
+                "686469",
+                "677951"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "658668",
+                "641531",
+                "681987",
+                "677951"
+              ],
+              "total": "1"
+            },
+            "HR": {
+              "playerID": [
+                "641531"
+              ],
+              "total": "1"
+            },
+            "R": {
+              "playerID": [
+                "641531",
+                "677951"
+              ],
+              "total": "1"
+            },
+            "RBI": {
+              "playerID": [
+                "641531"
+              ],
+              "total": "1"
+            },
+            "SO": {
+              "playerID": [
+                "658668",
+                "686469",
+                "670032",
+                "681987"
+              ],
+              "total": "2"
+            },
+            "TB": {
+              "playerID": [
+                "641531"
+              ],
+              "total": "4"
+            }
+          },
+          "Fielding": {
+            "E": {
+              "playerID": [
+                "677951"
+              ],
+              "total": "1"
+            },
+            "Outfield assists": {
+              "playerID": [
+                "598265",
+                "681987"
+              ],
+              "total": "1"
+            }
+          },
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "425844"
+              ],
+              "total": "22"
+            },
+            "BB": {
+              "playerID": [
+                "669395"
+              ],
+              "total": "4"
+            },
+            "ER": {
+              "playerID": [
+                "669395"
+              ],
+              "total": "6"
+            },
+            "Flyouts": {
+              "playerID": [
+                "425844"
+              ],
+              "total": "3"
+            },
+            "Groundouts": {
+              "playerID": [
+                "425844"
+              ],
+              "total": "8"
+            },
+            "H": {
+              "playerID": [
+                "425844"
+              ],
+              "total": "6"
+            },
+            "HR": {
+              "playerID": [
+                "425844"
+              ],
+              "total": "2"
+            },
+            "Pitches": {
+              "playerID": [
+                "425844"
+              ],
+              "total": "89"
+            },
+            "R": {
+              "playerID": [
+                "669395"
+              ],
+              "total": "6"
+            },
+            "SO": {
+              "playerID": [
+                "425844"
+              ],
+              "total": "3"
+            },
+            "Strikes": {
+              "playerID": [
+                "425844"
+              ],
+              "total": "59"
+            }
+          },
+          "BaseRunning": {
+            "SB": {
+              "playerID": [
+                "677951"
+              ],
+              "total": "1"
+            }
+          }
+        },
+        "TEX": {
+          "Hitting": {
+            "2B": {
+              "playerID": [
+                "669352",
+                "663993",
+                "608671"
+              ],
+              "total": "1"
+            },
+            "AB": {
+              "playerID": [
+                "666969"
+              ],
+              "total": "5"
+            },
+            "BB": {
+              "playerID": [
+                "641680",
+                "543257",
+                "608369",
+                "663993",
+                "608671"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "608369"
+              ],
+              "total": "3"
+            },
+            "HR": {
+              "playerID": [
+                "641680",
+                "608369",
+                "666969"
+              ],
+              "total": "1"
+            },
+            "R": {
+              "playerID": [
+                "641680",
+                "608369",
+                "608671"
+              ],
+              "total": "2"
+            },
+            "RBI": {
+              "playerID": [
+                "666969"
+              ],
+              "total": "4"
+            },
+            "SO": {
+              "playerID": [
+                "543257",
+                "666969"
+              ],
+              "total": "2"
+            },
+            "TB": {
+              "playerID": [
+                "608369"
+              ],
+              "total": "6"
+            }
+          },
+          "Fielding": {
+            "E": {
+              "playerID": [
+                "666969"
+              ],
+              "total": "1"
+            }
+          },
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "571760"
+              ],
+              "total": "20"
+            },
+            "BB": {
+              "playerID": [
+                "571760"
+              ],
+              "total": "2"
+            },
+            "ER": {
+              "playerID": [
+                "656271"
+              ],
+              "total": "1"
+            },
+            "Flyouts": {
+              "playerID": [
+                "641540"
+              ],
+              "total": "3"
+            },
+            "Groundouts": {
+              "playerID": [
+                "656271"
+              ],
+              "total": "2"
+            },
+            "H": {
+              "playerID": [
+                "571760"
+              ],
+              "total": "2"
+            },
+            "HR": {
+              "playerID": [
+                "656271"
+              ],
+              "total": "1"
+            },
+            "Pitches": {
+              "playerID": [
+                "571760"
+              ],
+              "total": "93"
+            },
+            "R": {
+              "playerID": [
+                "571760",
+                "656271"
+              ],
+              "total": "1"
+            },
+            "SO": {
+              "playerID": [
+                "571760"
+              ],
+              "total": "10"
+            },
+            "Strikes": {
+              "playerID": [
+                "571760"
+              ],
+              "total": "56"
+            }
+          },
+          "BaseRunning": {
+            "SB": {
+              "playerID": [
+                "608671"
+              ],
+              "total": "1"
+            }
+          }
+        }
+      },
+      "gameID": "20230410_KC@TEX",
+      "gameStatus": "Completed"
+    },
+    "20230410_LAD@SF": {
+      "away": "LAD",
+      "home": "SF",
+      "teamIDAway": "14",
+      "teamIDHome": "24",
+      "gameTime": "6:45p",
+      "gameTime_epoch": "1681166700.0",
+      "lineScore": {
+        "away": {
+          "H": "9",
+          "R": "9",
+          "team": "LAD",
+          "scoresByInning": {
+            "1": "1",
+            "2": "0",
+            "3": "3",
+            "4": "0",
+            "5": "0",
+            "6": "0",
+            "7": "5",
+            "8": "0",
+            "9": "0"
+          },
+          "E": "0"
+        },
+        "home": {
+          "H": "7",
+          "R": "1",
+          "team": "SF",
+          "scoresByInning": {
+            "1": "0",
+            "2": "0",
+            "3": "0",
+            "4": "1",
+            "5": "0",
+            "6": "0",
+            "7": "0",
+            "8": "0",
+            "9": "0"
+          },
+          "E": "2"
+        }
+      },
+      "currentInning": "Final",
+      "currentCount": "",
+      "currentOuts": "",
+      "awayResult": "W",
+      "homeResult": "L",
+      "topPerformers": {
+        "LAD": {
+          "Hitting": {
+            "3B": {
+              "playerID": [
+                "681546"
+              ],
+              "total": "1"
+            },
+            "AB": {
+              "playerID": [
+                "518692",
+                "605141"
+              ],
+              "total": "5"
+            },
+            "BB": {
+              "playerID": [
+                "571970",
+                "681546"
+              ],
+              "total": "1"
+            },
+            "GIDP": {
+              "playerID": [
+                "518792"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "571970",
+                "605141"
+              ],
+              "total": "3"
+            },
+            "HR": {
+              "playerID": [
+                "571970"
+              ],
+              "total": "2"
+            },
+            "R": {
+              "playerID": [
+                "605141"
+              ],
+              "total": "3"
+            },
+            "RBI": {
+              "playerID": [
+                "571970"
+              ],
+              "total": "7"
+            },
+            "SO": {
+              "playerID": [
+                "502110"
+              ],
+              "total": "3"
+            },
+            "TB": {
+              "playerID": [
+                "571970"
+              ],
+              "total": "9"
+            }
+          },
+          "Fielding": {
+            "Pickoffs": {
+              "playerID": [
+                "628711"
+              ],
+              "total": "1"
+            }
+          },
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "628711"
+              ],
+              "total": "23"
+            },
+            "BB": {
+              "playerID": [
+                "628711"
+              ],
+              "total": "2"
+            },
+            "ER": {
+              "playerID": [
+                "628711"
+              ],
+              "total": "1"
+            },
+            "Flyouts": {
+              "playerID": [
+                "628711"
+              ],
+              "total": "6"
+            },
+            "Groundouts": {
+              "playerID": [
+                "628711"
+              ],
+              "total": "3"
+            },
+            "H": {
+              "playerID": [
+                "628711"
+              ],
+              "total": "4"
+            },
+            "HR": {
+              "playerID": [
+                "628711"
+              ],
+              "total": "1"
+            },
+            "Pitches": {
+              "playerID": [
+                "628711"
+              ],
+              "total": "96"
+            },
+            "R": {
+              "playerID": [
+                "628711"
+              ],
+              "total": "1"
+            },
+            "SO": {
+              "playerID": [
+                "628711"
+              ],
+              "total": "8"
+            },
+            "Strikes": {
+              "playerID": [
+                "628711"
+              ],
+              "total": "62"
+            }
+          },
+          "BaseRunning": {
+            "SB": {
+              "playerID": [
+                "681546"
+              ],
+              "total": "1"
+            }
+          }
+        },
+        "SF": {
+          "Hitting": {
+            "AB": {
+              "playerID": [
+                "671218",
+                "527038",
+                "669369",
+                "573262",
+                "663698",
+                "605204",
+                "642731"
+              ],
+              "total": "4"
+            },
+            "BB": {
+              "playerID": [
+                "543063",
+                "681584"
+              ],
+              "total": "1"
+            },
+            "H": {
+              "playerID": [
+                "605204"
+              ],
+              "total": "2"
+            },
+            "HBP": {
+              "playerID": [
+                "681584"
+              ],
+              "total": "1"
+            },
+            "HR": {
+              "playerID": [
+                "527038"
+              ],
+              "total": "1"
+            },
+            "R": {
+              "playerID": [
+                "527038"
+              ],
+              "total": "1"
+            },
+            "RBI": {
+              "playerID": [
+                "527038"
+              ],
+              "total": "1"
+            },
+            "SO": {
+              "playerID": [
+                "669369"
+              ],
+              "total": "3"
+            },
+            "TB": {
+              "playerID": [
+                "527038"
+              ],
+              "total": "4"
+            }
+          },
+          "Fielding": {
+            "E": {
+              "playerID": [
+                "657277",
+                "543063"
+              ],
+              "total": "1"
+            }
+          },
+          "Pitching": {
+            "Batters Faced": {
+              "playerID": [
+                "657277"
+              ],
+              "total": "24"
+            },
+            "BB": {
+              "playerID": [
+                "573124",
+                "657277"
+              ],
+              "total": "1"
+            },
+            "ER": {
+              "playerID": [
+                "663546"
+              ],
+              "total": "4"
+            },
+            "Flyouts": {
+              "playerID": [
+                "657277"
+              ],
+              "total": "2"
+            },
+            "Groundouts": {
+              "playerID": [
+                "657277"
+              ],
+              "total": "9"
+            },
+            "H": {
+              "playerID": [
+                "657277"
+              ],
+              "total": "5"
+            },
+            "HR": {
+              "playerID": [
+                "657277"
+              ],
+              "total": "2"
+            },
+            "Pitches": {
+              "playerID": [
+                "657277"
+              ],
+              "total": "94"
+            },
+            "R": {
+              "playerID": [
+                "657277",
+                "663546"
+              ],
+              "total": "4"
+            },
+            "SO": {
+              "playerID": [
+                "657277"
+              ],
+              "total": "6"
+            },
+            "Strikes": {
+              "playerID": [
+                "657277"
+              ],
+              "total": "56"
+            }
+          },
+          "BaseRunning": {
+            "CS": {
+              "playerID": [
+                "573262"
+              ],
+              "total": "1"
+            },
+            "PO": {
+              "playerID": [
+                "573262"
+              ],
+              "total": "1"
+            },
+            "SB": {
+              "playerID": [
+                "681584"
+              ],
+              "total": "1"
+            }
+          }
+        }
+      },
+      "gameID": "20230410_LAD@SF",
+      "gameStatus": "Completed"
+    }
+  }
+}

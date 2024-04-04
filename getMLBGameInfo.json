@@ -1,0 +1,19 @@
+{
+  "statusCode": 200,
+  "body": {
+    "espnID": "401471161",
+    "mlbLink": "https://www.mlb.com/gameday/white-sox-vs-twins/2023/04/10/718640#game_tab=box,game=718640",
+    "gameStatus": "Completed",
+    "lastUpdated": 2023041016380095,
+    "season": "2023",
+    "gameDate": "20230410",
+    "teamIDHome": "17",
+    "gameTime": "1:12p",
+    "teamIDAway": "6",
+    "away": "CHW",
+    "mlbID": "718640",
+    "gameID": "20230410_CHW@MIN",
+    "espnLink": "https://www.espn.com/mlb/boxscore/_/gameId/401471161",
+    "home": "MIN"
+  }
+}

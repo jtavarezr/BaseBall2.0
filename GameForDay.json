@@ -1,0 +1,230 @@
+{
+  "statusCode": 200,
+  "body": [
+    {
+      "gameID": "20240510_HOU@DET",
+      "gameType": "REGULAR_SEASON",
+      "away": "HOU",
+      "gameTime": "6:40p",
+      "gameDate": "20240510",
+      "teamIDHome": "10",
+      "gameTime_epoch": "1715380800.0",
+      "teamIDAway": "11",
+      "probableStartingPitchers": {
+        "away": "",
+        "home": ""
+      },
+      "home": "DET"
+    },
+    {
+      "gameID": "20240510_KC@LAA",
+      "gameType": "REGULAR_SEASON",
+      "away": "KC",
+      "gameTime": "9:38p",
+      "gameDate": "20240510",
+      "teamIDHome": "13",
+      "gameTime_epoch": "1715391480.0",
+      "teamIDAway": "12",
+      "probableStartingPitchers": {
+        "away": "",
+        "home": ""
+      },
+      "home": "LAA"
+    },
+    {
+      "gameID": "20240510_ATL@NYM",
+      "gameType": "REGULAR_SEASON",
+      "away": "ATL",
+      "gameTime": "7:10p",
+      "gameDate": "20240510",
+      "teamIDHome": "18",
+      "gameTime_epoch": "1715382600.0",
+      "teamIDAway": "2",
+      "probableStartingPitchers": {
+        "away": "",
+        "home": ""
+      },
+      "home": "NYM"
+    },
+    {
+      "gameID": "20240510_LAD@SD",
+      "gameType": "REGULAR_SEASON",
+      "away": "LAD",
+      "gameTime": "9:40p",
+      "gameDate": "20240510",
+      "teamIDHome": "23",
+      "gameTime_epoch": "1715391600.0",
+      "teamIDAway": "14",
+      "probableStartingPitchers": {
+        "away": "",
+        "home": ""
+      },
+      "home": "SD"
+    },
+    {
+      "gameID": "20240510_NYY@TB",
+      "gameType": "REGULAR_SEASON",
+      "away": "NYY",
+      "gameTime": "6:50p",
+      "gameDate": "20240510",
+      "teamIDHome": "27",
+      "gameTime_epoch": "1715381400.0",
+      "teamIDAway": "19",
+      "probableStartingPitchers": {
+        "away": "",
+        "home": ""
+      },
+      "home": "TB"
+    },
+    {
+      "gameID": "20240510_PHI@MIA",
+      "gameType": "REGULAR_SEASON",
+      "away": "PHI",
+      "gameTime": "7:10p",
+      "gameDate": "20240510",
+      "teamIDHome": "15",
+      "gameTime_epoch": "1715382600.0",
+      "teamIDAway": "21",
+      "probableStartingPitchers": {
+        "away": "",
+        "home": ""
+      },
+      "home": "MIA"
+    },
+    {
+      "gameID": "20240510_TEX@COL",
+      "gameType": "REGULAR_SEASON",
+      "away": "TEX",
+      "gameTime": "8:40p",
+      "gameDate": "20240510",
+      "teamIDHome": "9",
+      "gameTime_epoch": "1715388000.0",
+      "teamIDAway": "28",
+      "probableStartingPitchers": {
+        "away": "",
+        "home": ""
+      },
+      "home": "COL"
+    },
+    {
+      "gameID": "20240510_MIN@TOR",
+      "gameType": "REGULAR_SEASON",
+      "away": "MIN",
+      "gameTime": "7:07p",
+      "gameDate": "20240510",
+      "teamIDHome": "29",
+      "gameTime_epoch": "1715382420.0",
+      "teamIDAway": "17",
+      "probableStartingPitchers": {
+        "away": "",
+        "home": ""
+      },
+      "home": "TOR"
+    },
+    {
+      "gameID": "20240510_CHC@PIT",
+      "gameType": "REGULAR_SEASON",
+      "away": "CHC",
+      "gameTime": "6:40p",
+      "gameDate": "20240510",
+      "teamIDHome": "22",
+      "gameTime_epoch": "1715380800.0",
+      "teamIDAway": "5",
+      "probableStartingPitchers": {
+        "away": "",
+        "home": ""
+      },
+      "home": "PIT"
+    },
+    {
+      "gameID": "20240510_OAK@SEA",
+      "gameType": "REGULAR_SEASON",
+      "away": "OAK",
+      "gameTime": "9:40p",
+      "gameDate": "20240510",
+      "teamIDHome": "25",
+      "gameTime_epoch": "1715391600.0",
+      "teamIDAway": "20",
+      "probableStartingPitchers": {
+        "away": "",
+        "home": ""
+      },
+      "home": "SEA"
+    },
+    {
+      "gameID": "20240510_CLE@CHW",
+      "gameType": "REGULAR_SEASON",
+      "away": "CLE",
+      "gameTime": "7:40p",
+      "gameDate": "20240510",
+      "teamIDHome": "6",
+      "gameTime_epoch": "1715384400.0",
+      "teamIDAway": "8",
+      "probableStartingPitchers": {
+        "away": "",
+        "home": ""
+      },
+      "home": "CHW"
+    },
+    {
+      "gameID": "20240510_CIN@SF",
+      "gameType": "REGULAR_SEASON",
+      "away": "CIN",
+      "gameTime": "10:15p",
+      "gameDate": "20240510",
+      "teamIDHome": "24",
+      "gameTime_epoch": "1715393700.0",
+      "teamIDAway": "7",
+      "probableStartingPitchers": {
+        "away": "",
+        "home": ""
+      },
+      "home": "SF"
+    },
+    {
+      "gameID": "20240510_STL@MIL",
+      "gameType": "REGULAR_SEASON",
+      "away": "STL",
+      "gameTime": "8:10p",
+      "gameDate": "20240510",
+      "teamIDHome": "16",
+      "gameTime_epoch": "1715386200.0",
+      "teamIDAway": "26",
+      "probableStartingPitchers": {
+        "away": "",
+        "home": ""
+      },
+      "home": "MIL"
+    },
+    {
+      "gameID": "20240510_WAS@BOS",
+      "gameType": "REGULAR_SEASON",
+      "away": "WAS",
+      "gameTime": "7:10p",
+      "gameDate": "20240510",
+      "teamIDHome": "4",
+      "gameTime_epoch": "1715382600.0",
+      "teamIDAway": "30",
+      "probableStartingPitchers": {
+        "away": "",
+        "home": ""
+      },
+      "home": "BOS"
+    },
+    {
+      "gameID": "20240510_ARI@BAL",
+      "gameType": "REGULAR_SEASON",
+      "away": "ARI",
+      "gameTime": "7:05p",
+      "gameDate": "20240510",
+      "teamIDHome": "3",
+      "gameTime_epoch": "1715382300.0",
+      "teamIDAway": "1",
+      "probableStartingPitchers": {
+        "away": "",
+        "home": ""
+      },
+      "home": "BAL"
+    }
+  ]
+}
